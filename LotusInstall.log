@@ -1,0 +1,1157 @@
+2016-05-24T12:59:42.42-05:00 UpgradeUtils/StartAutoLog: -----------------------------------------------
+2016-05-24T12:59:42.42-05:00 UpgradeUtils/StartAutoLog:                AutoLog started                 
+2016-05-24T12:59:42.42-05:00 UpgradeUtils/StartAutoLog: 5/24/2016 12:59:42
+2016-05-24T12:59:42.42-05:00 UpgradeUtils/StartAutoLog: The autolog path is C:\Users\c91356\Documents\LotusInstall.log
+2016-05-24T12:59:42.42-05:00 UpgradeUtils/StartAutoLog: Install Status is Installed
+2016-05-24T12:59:42.42-05:00 UpgradeUtils/StartAutoLog: Exiting
+2016-05-24T12:59:42.42-05:00 SetProperty Success: UpgradeUtils/CheckMultiUser (Line 4440) set 'ApplicationUsers' to 'AllUsers' in MSI
+2016-05-24T12:59:42.42-05:00 SetProperty Success: UpgradeUtils/CheckMultiUser (Line 4441) set 'MULTIUSER' to '#1' in MSI
+2016-05-24T12:59:42.42-05:00 GetProperty Success: UpgradeUtils/StreamlineCmdLine (Line 2418) got '' for 'ADDLOCAL' from MSI
+2016-05-24T12:59:42.42-05:00 GetProperty Success: UpgradeUtils/StreamlineCmdLine (Line 2422) got '' for 'ADDFEATURES' from MSI
+2016-05-24T12:59:42.42-05:00 GetProperty Success: UpgradeUtils/StreamlineCmdLine (Line 2424) got '' for 'SELECTINSTALLFEATURES' from MSI
+2016-05-24T12:59:42.42-05:00 GetProperty Success: UpgradeUtils/StreamlineCmdLine (Line 2438) got 'C:\IBM' for 'MULTIUSERBASEDIR' from MSI
+2016-05-24T12:59:42.42-05:00 MSI ERROR: "UpgradeUtils/StreamlineCmdLine (Line 2440): Error - 'GetPropertyFromMSI' for 'MULTIUSERCOMMONDIR' failed with return code '234' - More data is available.
+."
+2016-05-24T12:59:42.42-05:00 UpgradeUtils/UpdateUpgradeTable: Entered
+2016-05-24T12:59:42.42-05:00 UpgradeUtils/UpdateUpgradeTable: from IntlClientUpgradeCodes -> Upgrade code ->{602E2418-8380-456E-99D1-A042D04E4F56}
+2016-05-24T12:59:42.42-05:00 UpgradeUtils/UpdateUpgradeTable: Writing to Action Col -> OLDPRODUCTS_1
+2016-05-24T12:59:42.42-05:00 UpgradeUtils/UpdateUpgradeTable: from IntlClientUpgradeCodes -> Upgrade code ->{790887DC-1465-4DC2-B000-AA473DD986DA}
+2016-05-24T12:59:42.42-05:00 UpgradeUtils/UpdateUpgradeTable: Writing to Action Col -> OLDPRODUCTS_2
+2016-05-24T12:59:42.42-05:00 UpgradeUtils/UpdateUpgradeTable: from IntlClientUpgradeCodes -> Upgrade code ->{DCB4B1D1-AD22-4A95-BC1E-EF223E30A1D7}
+2016-05-24T12:59:42.42-05:00 UpgradeUtils/UpdateUpgradeTable: Writing to Action Col -> OLDPRODUCTS_3
+2016-05-24T12:59:42.42-05:00 UpgradeUtils/UpdateUpgradeTable: from IntlClientUpgradeCodes -> Upgrade code ->{015FA084-01BD-45A2-B816-01A3E438477C}
+2016-05-24T12:59:42.42-05:00 UpgradeUtils/UpdateUpgradeTable: Writing to Action Col -> OLDPRODUCTS_4
+2016-05-24T12:59:42.42-05:00 UpgradeUtils/UpdateUpgradeTable: from IntlClientUpgradeCodes -> Upgrade code ->{7ED2D232-22D1-4140-AC75-8F0023C3A768}
+2016-05-24T12:59:42.42-05:00 UpgradeUtils/UpdateUpgradeTable: Writing to Action Col -> OLDPRODUCTS_5
+2016-05-24T12:59:42.42-05:00 UpgradeUtils/UpdateUpgradeTable: from IntlClientUpgradeCodes -> Upgrade code ->{84C25FBE-9802-4EED-A01F-07978D2443E0}
+2016-05-24T12:59:42.42-05:00 UpgradeUtils/UpdateUpgradeTable: Writing to Action Col -> OLDPRODUCTS_6
+2016-05-24T12:59:42.42-05:00 UpgradeUtils/UpdateUpgradeTable: from IntlClientUpgradeCodes -> Upgrade code ->{2565E7E9-0D77-4FDD-8674-A61B72DA695F}
+2016-05-24T12:59:42.42-05:00 UpgradeUtils/UpdateUpgradeTable: Writing to Action Col -> OLDPRODUCTS_7
+2016-05-24T12:59:42.42-05:00 UpgradeUtils/UpdateUpgradeTable: from IntlClientUpgradeCodes -> Upgrade code ->{7D43005C-A1B1-450A-9B5A-8E08A5738BE5}
+2016-05-24T12:59:42.42-05:00 UpgradeUtils/UpdateUpgradeTable: Writing to Action Col -> OLDPRODUCTS_8
+2016-05-24T12:59:42.42-05:00 UpgradeUtils/UpdateUpgradeTable: from IntlClientUpgradeCodes -> Upgrade code ->{E7A23380-6731-4286-B7EA-E330364CB1C4}
+2016-05-24T12:59:42.42-05:00 UpgradeUtils/UpdateUpgradeTable: Writing to Action Col -> OLDPRODUCTS_9
+2016-05-24T12:59:42.42-05:00 UpgradeUtils/UpdateUpgradeTable: from IntlClientUpgradeCodes -> Upgrade code ->{1840F4F0-33F0-4388-BFBD-1B8830AEFF78}
+2016-05-24T12:59:42.42-05:00 UpgradeUtils/UpdateUpgradeTable: Writing to Action Col -> OLDPRODUCTS_10
+2016-05-24T12:59:42.42-05:00 UpgradeUtils/UpdateUpgradeTable: from IntlClientUpgradeCodes -> Upgrade code ->{1EA5C267-B2DB-437C-AB53-AE385444271C}
+2016-05-24T12:59:42.42-05:00 UpgradeUtils/UpdateUpgradeTable: Writing to Action Col -> OLDPRODUCTS_11
+2016-05-24T12:59:42.42-05:00 UpgradeUtils/UpdateUpgradeTable: from IntlClientUpgradeCodes -> Upgrade code ->{78D46466-F71C-4CA4-9532-2FD1E66D2A37}
+2016-05-24T12:59:42.42-05:00 UpgradeUtils/UpdateUpgradeTable: Writing to Action Col -> OLDPRODUCTS_12
+2016-05-24T12:59:42.42-05:00 UpgradeUtils/UpdateUpgradeTable: from IntlClientUpgradeCodes -> Upgrade code ->{6C47D4E6-B3F9-4B07-9E67-9BB227AD1571}
+2016-05-24T12:59:42.42-05:00 UpgradeUtils/UpdateUpgradeTable: Writing to Action Col -> OLDPRODUCTS_13
+2016-05-24T12:59:42.42-05:00 UpgradeUtils/UpdateUpgradeTable: from IntlClientUpgradeCodes -> Upgrade code ->{9E0791C7-E9F8-4A8A-BCFA-53401A5AB1D7}
+2016-05-24T12:59:42.42-05:00 UpgradeUtils/UpdateUpgradeTable: Writing to Action Col -> OLDPRODUCTS_14
+2016-05-24T12:59:42.42-05:00 UpgradeUtils/UpdateUpgradeTable: from IntlClientUpgradeCodes -> Upgrade code ->{FDE7FA8C-D9F9-40FD-8C2A-2F80552C6B24}
+2016-05-24T12:59:42.42-05:00 UpgradeUtils/UpdateUpgradeTable: Writing to Action Col -> OLDPRODUCTS_15
+2016-05-24T12:59:42.42-05:00 UpgradeUtils/UpdateUpgradeTable: from IntlClientUpgradeCodes -> Upgrade code ->{4D5B05A0-A883-4020-9773-5EAE8910692A}
+2016-05-24T12:59:42.42-05:00 UpgradeUtils/UpdateUpgradeTable: Writing to Action Col -> OLDPRODUCTS_16
+2016-05-24T12:59:42.42-05:00 UpgradeUtils/UpdateUpgradeTable: from IntlClientUpgradeCodes -> Upgrade code ->{CEBCD43D-9C44-4DE2-BA9F-117B0509ACA3}
+2016-05-24T12:59:42.42-05:00 UpgradeUtils/UpdateUpgradeTable: Writing to Action Col -> OLDPRODUCTS_17
+2016-05-24T12:59:42.42-05:00 UpgradeUtils/UpdateUpgradeTable: from IntlClientUpgradeCodes -> Upgrade code ->{2120083E-4B22-467D-BEC1-588611A4456D}
+2016-05-24T12:59:42.42-05:00 UpgradeUtils/UpdateUpgradeTable: Writing to Action Col -> OLDPRODUCTS_18
+2016-05-24T12:59:42.42-05:00 UpgradeUtils/UpdateUpgradeTable: from IntlClientUpgradeCodes -> Upgrade code ->{6BF79565-87F0-4392-9C9E-0315A48BF206}
+2016-05-24T12:59:42.42-05:00 UpgradeUtils/UpdateUpgradeTable: Writing to Action Col -> OLDPRODUCTS_19
+2016-05-24T12:59:42.42-05:00 UpgradeUtils/UpdateUpgradeTable: from IntlClientUpgradeCodes -> Upgrade code ->{CA300124-CA1A-481E-9F2A-9B806F83CBAE}
+2016-05-24T12:59:42.42-05:00 UpgradeUtils/UpdateUpgradeTable: Writing to Action Col -> OLDPRODUCTS_20
+2016-05-24T12:59:42.42-05:00 UpgradeUtils/UpdateUpgradeTable: from IntlClientUpgradeCodes -> Upgrade code ->{1167CF61-95EF-4E45-9906-7C1213F79BCB}
+2016-05-24T12:59:42.42-05:00 UpgradeUtils/UpdateUpgradeTable: Writing to Action Col -> OLDPRODUCTS_21
+2016-05-24T12:59:42.42-05:00 UpgradeUtils/UpdateUpgradeTable: from IntlClientUpgradeCodes -> Upgrade code ->{47C4C0CA-8D9F-4C0E-A12E-DBAD523DA6AA}
+2016-05-24T12:59:42.42-05:00 UpgradeUtils/UpdateUpgradeTable: Writing to Action Col -> OLDPRODUCTS_22
+2016-05-24T12:59:42.42-05:00 UpgradeUtils/UpdateUpgradeTable: from IntlClientUpgradeCodes -> Upgrade code ->{D86A6716-B12E-4DB0-B1CD-E44F98E66DAE}
+2016-05-24T12:59:42.42-05:00 UpgradeUtils/UpdateUpgradeTable: Writing to Action Col -> OLDPRODUCTS_23
+2016-05-24T12:59:42.42-05:00 UpgradeUtils/UpdateUpgradeTable: from IntlClientUpgradeCodes -> Upgrade code ->{09175872-711E-42FA-8066-A6A2A399B356}
+2016-05-24T12:59:42.42-05:00 UpgradeUtils/UpdateUpgradeTable: Writing to Action Col -> OLDPRODUCTS_24
+2016-05-24T12:59:42.42-05:00 UpgradeUtils/UpdateUpgradeTable: from IntlClientUpgradeCodes -> Upgrade code ->{1B6B881C-1648-459C-8688-7BE2CB5ACD63}
+2016-05-24T12:59:42.42-05:00 UpgradeUtils/UpdateUpgradeTable: Writing to Action Col -> OLDPRODUCTS_25
+2016-05-24T12:59:42.42-05:00 UpgradeUtils/UpdateUpgradeTable: from IntlClientUpgradeCodes -> Upgrade code ->{7E0074E1-5C2B-40A2-8ACD-15C923B0B334}
+2016-05-24T12:59:42.42-05:00 UpgradeUtils/UpdateUpgradeTable: Writing to Action Col -> OLDPRODUCTS_26
+2016-05-24T12:59:42.42-05:00 UpgradeUtils/UpdateUpgradeTable: from IntlClientUpgradeCodes -> Upgrade code ->{16347247-F1E8-4801-9715-06B0D7C8DA86}
+2016-05-24T12:59:42.42-05:00 UpgradeUtils/UpdateUpgradeTable: Writing to Action Col -> OLDPRODUCTS_27
+2016-05-24T12:59:42.42-05:00 UpgradeUtils/UpdateUpgradeTable: from IntlClientUpgradeCodes -> Upgrade code ->{60CF1BEF-8F92-4614-B155-81DEC5FD6435}
+2016-05-24T12:59:42.42-05:00 UpgradeUtils/UpdateUpgradeTable: Writing to Action Col -> OLDPRODUCTS_28
+2016-05-24T12:59:42.42-05:00 UpgradeUtils/UpdateUpgradeTable: from IntlClientUpgradeCodes -> Upgrade code ->{F64F1122-74D0-4DAB-B4A7-87E221658A0E}
+2016-05-24T12:59:42.42-05:00 UpgradeUtils/UpdateUpgradeTable: Writing to Action Col -> OLDPRODUCTS_29
+2016-05-24T12:59:42.42-05:00 UpgradeUtils/UpdateUpgradeTable: from IntlClientUpgradeCodes -> Upgrade code ->{4A29A115-4A56-44BD-A2EB-A2570422A067}
+2016-05-24T12:59:42.42-05:00 UpgradeUtils/UpdateUpgradeTable: Writing to Action Col -> OLDPRODUCTS_30
+2016-05-24T12:59:42.42-05:00 UpgradeUtils/UpdateUpgradeTable: from IntlClientUpgradeCodes -> Upgrade code ->{C5E3FD8F-A3D4-43EF-AF28-DE507182862C}
+2016-05-24T12:59:42.42-05:00 UpgradeUtils/UpdateUpgradeTable: Writing to Action Col -> OLDPRODUCTS_31
+2016-05-24T12:59:42.42-05:00 UpgradeUtils/UpdateUpgradeTable: from IntlClientUpgradeCodes -> Upgrade code ->{C74B43C8-DBEC-44A5-B42F-B84A7F089A18}
+2016-05-24T12:59:42.42-05:00 UpgradeUtils/UpdateUpgradeTable: Writing to Action Col -> OLDPRODUCTS_32
+2016-05-24T12:59:42.42-05:00 UpgradeUtils/UpdateUpgradeTable: from IntlClientUpgradeCodes -> Upgrade code ->{9FFC5AB2-531C-47D5-8AAF-DC5B431D96F1}
+2016-05-24T12:59:42.42-05:00 UpgradeUtils/UpdateUpgradeTable: Writing to Action Col -> OLDPRODUCTS_33
+2016-05-24T12:59:42.42-05:00 UpgradeUtils/UpdateUpgradeTable: from IntlClientUpgradeCodes -> Upgrade code ->{9DD58880-B13D-4122-9CA5-FCB43C861D01}
+2016-05-24T12:59:42.42-05:00 UpgradeUtils/UpdateUpgradeTable: Writing to Action Col -> OLDPRODUCTS_34
+2016-05-24T12:59:42.42-05:00 UpgradeUtils/UpdateUpgradeTable: from IntlClientUpgradeCodes -> Upgrade code ->{0E3B6FEA-03E8-4113-BBA3-7D65DFF099D0}
+2016-05-24T12:59:42.42-05:00 UpgradeUtils/UpdateUpgradeTable: Writing to Action Col -> OLDPRODUCTS_35
+2016-05-24T12:59:42.42-05:00 UpgradeUtils/UpdateUpgradeTable: from IntlClientUpgradeCodes -> Upgrade code ->{42008565-63EB-4DB4-BF18-1629B05F2558}
+2016-05-24T12:59:42.42-05:00 UpgradeUtils/UpdateUpgradeTable: Writing to Action Col -> OLDPRODUCTS_36
+2016-05-24T12:59:42.42-05:00 UpgradeUtils/UpdateUpgradeTable: from IntlClientUpgradeCodes -> Upgrade code ->{9CEE0205-F399-4A14-B21E-4E4C6537A263}
+2016-05-24T12:59:42.42-05:00 UpgradeUtils/UpdateUpgradeTable: Writing to Action Col -> OLDPRODUCTS_37
+2016-05-24T12:59:42.42-05:00 UpgradeUtils/UpdateUpgradeTable: from IntlClientUpgradeCodes -> Upgrade code ->{0D6DBB98-97E5-4BD5-B727-640E94EB7614}
+2016-05-24T12:59:42.42-05:00 UpgradeUtils/UpdateUpgradeTable: Writing to Action Col -> OLDPRODUCTS_38
+2016-05-24T12:59:42.42-05:00 UpgradeUtils/UpdateUpgradeTable: from IntlClientUpgradeCodes -> Upgrade code ->{54D50676-C611-438C-9852-8A39D7F7651E}
+2016-05-24T12:59:42.42-05:00 UpgradeUtils/UpdateUpgradeTable: Writing to Action Col -> OLDPRODUCTS_39
+2016-05-24T12:59:42.42-05:00 UpgradeUtils/UpdateUpgradeTable: from IntlClientUpgradeCodes -> Upgrade code ->{746D18A2-AA5C-45C8-BD88-E2E149BF0211}
+2016-05-24T12:59:42.42-05:00 UpgradeUtils/UpdateUpgradeTable: Writing to Action Col -> OLDPRODUCTS_40
+2016-05-24T12:59:42.42-05:00 UpgradeUtils/UpdateUpgradeTable: from IntlClientUpgradeCodes -> Upgrade code ->{4B254269-0404-456C-97B3-5967270E0631}
+2016-05-24T12:59:42.42-05:00 UpgradeUtils/UpdateUpgradeTable: Writing to Action Col -> OLDPRODUCTS_41
+2016-05-24T12:59:42.42-05:00 UpgradeUtils/UpdateUpgradeTable: from IntlClientUpgradeCodes -> Upgrade code ->{9A7AC84C-3DD1-4CE9-9544-B47F3BC1DA5E}
+2016-05-24T12:59:42.42-05:00 UpgradeUtils/UpdateUpgradeTable: Writing to Action Col -> OLDPRODUCTS_42
+2016-05-24T12:59:42.42-05:00 UpgradeUtils/UpdateUpgradeTable: from IntlClientUpgradeCodes -> Upgrade code ->{F1BE2225-BDBD-4B90-AA10-A589E753AF96}
+2016-05-24T12:59:42.42-05:00 UpgradeUtils/UpdateUpgradeTable: Writing to Action Col -> OLDPRODUCTS_43
+2016-05-24T12:59:42.42-05:00 UpgradeUtils/UpdateUpgradeTable: from IntlClientUpgradeCodes -> Upgrade code ->{B2974E48-F904-45C0-A5AC-452F2C64EF1D}
+2016-05-24T12:59:42.42-05:00 UpgradeUtils/UpdateUpgradeTable: Writing to Action Col -> OLDPRODUCTS_44
+2016-05-24T12:59:42.42-05:00 UpgradeUtils/UpdateUpgradeTable: from IntlClientUpgradeCodes -> Upgrade code ->{210373B1-1EED-4F74-8E9C-D43B9C5391BA}
+2016-05-24T12:59:42.42-05:00 UpgradeUtils/UpdateUpgradeTable: Writing to Action Col -> OLDPRODUCTS_45
+2016-05-24T12:59:42.42-05:00 UpgradeUtils/UpdateUpgradeTable: from IntlClientUpgradeCodes -> Upgrade code ->{53E7DC2C-718A-4F9F-B650-B29FC0F5F87E}
+2016-05-24T12:59:42.42-05:00 UpgradeUtils/UpdateUpgradeTable: Writing to Action Col -> OLDPRODUCTS_46
+2016-05-24T12:59:42.42-05:00 UpgradeUtils/UpdateUpgradeTable: from IntlClientUpgradeCodes -> Upgrade code ->{6168414E-10A0-4B84-8016-0A4A5BA7BACE}
+2016-05-24T12:59:42.42-05:00 UpgradeUtils/UpdateUpgradeTable: Writing to Action Col -> OLDPRODUCTS_47
+2016-05-24T12:59:42.42-05:00 UpgradeUtils/UpdateUpgradeTable: from IntlClientUpgradeCodes -> Upgrade code ->{5D08A267-A103-42C4-BF84-A86AB03E3D2B}
+2016-05-24T12:59:42.42-05:00 UpgradeUtils/UpdateUpgradeTable: Writing to Action Col -> OLDPRODUCTS_48
+2016-05-24T12:59:42.42-05:00 UpgradeUtils/UpdateUpgradeTable: from IntlClientUpgradeCodes -> Upgrade code ->{78B54607-6504-4B74-9C39-F5E16146FE67}
+2016-05-24T12:59:42.42-05:00 UpgradeUtils/UpdateUpgradeTable: Writing to Action Col -> OLDPRODUCTS_49
+2016-05-24T12:59:42.42-05:00 UpgradeUtils/UpdateUpgradeTable: from IntlClientUpgradeCodes -> Upgrade code ->{8AAB92DA-EC74-4E1E-BB90-0737B8CF35BD}
+2016-05-24T12:59:42.42-05:00 UpgradeUtils/UpdateUpgradeTable: Writing to Action Col -> OLDPRODUCTS_50
+2016-05-24T12:59:42.42-05:00 UpgradeUtils/UpdateUpgradeTable: from IntlClientUpgradeCodes -> Upgrade code ->{E78A21D1-6543-4750-9A76-B3C801E0A5DE}
+2016-05-24T12:59:42.42-05:00 UpgradeUtils/UpdateUpgradeTable: Writing to Action Col -> OLDPRODUCTS_51
+2016-05-24T12:59:42.42-05:00 UpgradeUtils/UpdateUpgradeTable: from IntlClientUpgradeCodes -> Upgrade code ->{3468DDE9-53E5-4437-B3BA-A0D2D95ACE14}
+2016-05-24T12:59:42.42-05:00 UpgradeUtils/UpdateUpgradeTable: Writing to Action Col -> OLDPRODUCTS_52
+2016-05-24T12:59:42.42-05:00 UpgradeUtils/UpdateUpgradeTable: from IntlClientUpgradeCodes -> Upgrade code ->{3E35BC2C-C30C-45B7-9C33-93096F0C5582}
+2016-05-24T12:59:42.42-05:00 UpgradeUtils/UpdateUpgradeTable: Writing to Action Col -> OLDPRODUCTS_53
+2016-05-24T12:59:42.42-05:00 UpgradeUtils/UpdateUpgradeTable: from IntlClientUpgradeCodes -> Upgrade code ->{CD70C815-1401-4595-877F-D4B78D17B40B}
+2016-05-24T12:59:42.42-05:00 UpgradeUtils/UpdateUpgradeTable: Writing to Action Col -> OLDPRODUCTS_54
+2016-05-24T12:59:42.42-05:00 UpgradeUtils/UpdateUpgradeTable: from IntlClientUpgradeCodes -> Upgrade code ->{0DCA8CAD-EB4B-438A-BE5C-0052E3900BF2}
+2016-05-24T12:59:42.42-05:00 UpgradeUtils/UpdateUpgradeTable: Writing to Action Col -> OLDPRODUCTS_55
+2016-05-24T12:59:42.42-05:00 UpgradeUtils/UpdateUpgradeTable: from IntlClientUpgradeCodes -> Upgrade code ->{818E15B6-1DF4-4688-83DA-5A3DA4925B66}
+2016-05-24T12:59:42.42-05:00 UpgradeUtils/UpdateUpgradeTable: Writing to Action Col -> OLDPRODUCTS_56
+2016-05-24T12:59:42.42-05:00 UpgradeUtils/UpdateUpgradeTable: from IntlClientUpgradeCodes -> Upgrade code ->{C6813137-8B24-43F6-89C2-C5134C2DB883}
+2016-05-24T12:59:42.42-05:00 UpgradeUtils/UpdateUpgradeTable: Writing to Action Col -> OLDPRODUCTS_57
+2016-05-24T12:59:42.42-05:00 UpgradeUtils/UpdateUpgradeTable: from IntlClientUpgradeCodes -> Upgrade code ->{CBE07EE5-201E-4AB9-B02C-7480FE91A883}
+2016-05-24T12:59:42.42-05:00 UpgradeUtils/UpdateUpgradeTable: Writing to Action Col -> OLDPRODUCTS_58
+2016-05-24T12:59:42.42-05:00 UpgradeUtils/UpdateUpgradeTable: from IntlClientUpgradeCodes -> Upgrade code ->{7F71AA5B-AB81-41E9-9541-B910C83CDAA3}
+2016-05-24T12:59:42.42-05:00 UpgradeUtils/UpdateUpgradeTable: Writing to Action Col -> OLDPRODUCTS_59
+2016-05-24T12:59:43.43-05:00 XPD: BldFeaturePanel/CleanupDynamicFeatures: DEBUG - Entering
+2016-05-24T12:59:43.43-05:00 XPD: BldFeaturePanel/removeDynamicFeatures: DEBUG - Entering
+2016-05-24T12:59:43.43-05:00 XPD: BldFeaturePanel/removeDynamicFeatures: DEBUG - Property passed in = ADDLOCAL
+2016-05-24T12:59:43.43-05:00 XPD: BldFeaturePanel/removeDynamicFeatures: DEBUG - ADDLOCAL is empty - no changes necessary
+2016-05-24T12:59:43.43-05:00 XPD: BldFeaturePanel/removeDynamicFeatures: DEBUG - Entering
+2016-05-24T12:59:43.43-05:00 XPD: BldFeaturePanel/removeDynamicFeatures: DEBUG - Property passed in = REMOVE
+2016-05-24T12:59:43.43-05:00 XPD: BldFeaturePanel/removeDynamicFeatures: DEBUG - REMOVE did not change - no update necessary
+2016-05-24T12:59:43.43-05:00 XPD: BldFeaturePanel/CleanupDynamicFeatures: DEBUG - Exiting
+2016-05-24T12:59:43.43-05:00 UpgradeUtils/SetPropertiesForSecureProperty: Entered
+2016-05-24T12:59:43.43-05:00 GetProperty Success: UpgradeUtils/SetPropertiesForSecureProperty (Line 7796) got 'PROGDIR;DATADIR;HANNOVER;SELECT_ADMIN;SELECT_DESIGNER;SELECT_EDITORS;ACTIONPROPERTY;OLDPRODUCTS;ACTIONPROP2;SUPPORTDIR;USENOTESFOREMAIL;USENOTESFORCALENDAR;USENOTESFORCONTACTS;PRELOADNOTES;SHAREDINSTALL' for 'SecureCustomProperties' from MSI
+2016-05-24T12:59:43.43-05:00 UpgradeUtils/GetPropertiesForSecureCustom: Entered
+2016-05-24T12:59:43.43-05:00 UpgradeUtils/GetPropertiesForSecureCustom: Adding to securecustomactions property: OLDPRODUCTS_1
+2016-05-24T12:59:43.43-05:00 UpgradeUtils/GetPropertiesForSecureCustom: Adding to securecustomactions property: OLDPRODUCTS_2
+2016-05-24T12:59:43.43-05:00 UpgradeUtils/GetPropertiesForSecureCustom: Adding to securecustomactions property: OLDPRODUCTS_3
+2016-05-24T12:59:43.43-05:00 UpgradeUtils/GetPropertiesForSecureCustom: Adding to securecustomactions property: OLDPRODUCTS_4
+2016-05-24T12:59:43.43-05:00 UpgradeUtils/GetPropertiesForSecureCustom: Adding to securecustomactions property: OLDPRODUCTS_5
+2016-05-24T12:59:43.43-05:00 UpgradeUtils/GetPropertiesForSecureCustom: Adding to securecustomactions property: OLDPRODUCTS_6
+2016-05-24T12:59:43.43-05:00 UpgradeUtils/GetPropertiesForSecureCustom: Adding to securecustomactions property: OLDPRODUCTS_7
+2016-05-24T12:59:43.43-05:00 UpgradeUtils/GetPropertiesForSecureCustom: Adding to securecustomactions property: OLDPRODUCTS_8
+2016-05-24T12:59:43.43-05:00 UpgradeUtils/GetPropertiesForSecureCustom: Adding to securecustomactions property: OLDPRODUCTS_9
+2016-05-24T12:59:43.43-05:00 UpgradeUtils/GetPropertiesForSecureCustom: Adding to securecustomactions property: OLDPRODUCTS_10
+2016-05-24T12:59:43.43-05:00 UpgradeUtils/GetPropertiesForSecureCustom: Adding to securecustomactions property: OLDPRODUCTS_11
+2016-05-24T12:59:43.43-05:00 UpgradeUtils/GetPropertiesForSecureCustom: Adding to securecustomactions property: OLDPRODUCTS_12
+2016-05-24T12:59:43.43-05:00 UpgradeUtils/GetPropertiesForSecureCustom: Adding to securecustomactions property: OLDPRODUCTS_13
+2016-05-24T12:59:43.43-05:00 UpgradeUtils/GetPropertiesForSecureCustom: Adding to securecustomactions property: OLDPRODUCTS_14
+2016-05-24T12:59:43.43-05:00 UpgradeUtils/GetPropertiesForSecureCustom: Adding to securecustomactions property: OLDPRODUCTS_15
+2016-05-24T12:59:43.43-05:00 UpgradeUtils/GetPropertiesForSecureCustom: Adding to securecustomactions property: OLDPRODUCTS_16
+2016-05-24T12:59:43.43-05:00 UpgradeUtils/GetPropertiesForSecureCustom: Adding to securecustomactions property: OLDPRODUCTS_17
+2016-05-24T12:59:43.43-05:00 UpgradeUtils/GetPropertiesForSecureCustom: Adding to securecustomactions property: OLDPRODUCTS_18
+2016-05-24T12:59:43.43-05:00 UpgradeUtils/GetPropertiesForSecureCustom: Adding to securecustomactions property: OLDPRODUCTS_19
+2016-05-24T12:59:43.43-05:00 UpgradeUtils/GetPropertiesForSecureCustom: Adding to securecustomactions property: OLDPRODUCTS_20
+2016-05-24T12:59:43.43-05:00 UpgradeUtils/GetPropertiesForSecureCustom: Adding to securecustomactions property: OLDPRODUCTS_21
+2016-05-24T12:59:43.43-05:00 UpgradeUtils/GetPropertiesForSecureCustom: Adding to securecustomactions property: OLDPRODUCTS_22
+2016-05-24T12:59:43.43-05:00 UpgradeUtils/GetPropertiesForSecureCustom: Adding to securecustomactions property: OLDPRODUCTS_23
+2016-05-24T12:59:43.43-05:00 UpgradeUtils/GetPropertiesForSecureCustom: Adding to securecustomactions property: OLDPRODUCTS_24
+2016-05-24T12:59:43.43-05:00 UpgradeUtils/GetPropertiesForSecureCustom: Adding to securecustomactions property: OLDPRODUCTS_25
+2016-05-24T12:59:43.43-05:00 UpgradeUtils/GetPropertiesForSecureCustom: Adding to securecustomactions property: OLDPRODUCTS_26
+2016-05-24T12:59:43.43-05:00 UpgradeUtils/GetPropertiesForSecureCustom: Adding to securecustomactions property: OLDPRODUCTS_27
+2016-05-24T12:59:43.43-05:00 UpgradeUtils/GetPropertiesForSecureCustom: Adding to securecustomactions property: OLDPRODUCTS_28
+2016-05-24T12:59:43.43-05:00 UpgradeUtils/GetPropertiesForSecureCustom: Adding to securecustomactions property: OLDPRODUCTS_29
+2016-05-24T12:59:43.43-05:00 UpgradeUtils/GetPropertiesForSecureCustom: Adding to securecustomactions property: OLDPRODUCTS_30
+2016-05-24T12:59:43.43-05:00 UpgradeUtils/GetPropertiesForSecureCustom: Adding to securecustomactions property: OLDPRODUCTS_31
+2016-05-24T12:59:43.43-05:00 UpgradeUtils/GetPropertiesForSecureCustom: Adding to securecustomactions property: OLDPRODUCTS_32
+2016-05-24T12:59:43.43-05:00 UpgradeUtils/GetPropertiesForSecureCustom: Adding to securecustomactions property: OLDPRODUCTS_33
+2016-05-24T12:59:43.43-05:00 UpgradeUtils/GetPropertiesForSecureCustom: Adding to securecustomactions property: OLDPRODUCTS_34
+2016-05-24T12:59:43.43-05:00 UpgradeUtils/GetPropertiesForSecureCustom: Adding to securecustomactions property: OLDPRODUCTS_35
+2016-05-24T12:59:43.43-05:00 UpgradeUtils/GetPropertiesForSecureCustom: Adding to securecustomactions property: OLDPRODUCTS_36
+2016-05-24T12:59:43.43-05:00 UpgradeUtils/GetPropertiesForSecureCustom: Adding to securecustomactions property: OLDPRODUCTS_37
+2016-05-24T12:59:43.43-05:00 UpgradeUtils/GetPropertiesForSecureCustom: Adding to securecustomactions property: OLDPRODUCTS_51
+2016-05-24T12:59:43.43-05:00 UpgradeUtils/GetPropertiesForSecureCustom: Adding to securecustomactions property: OLDPRODUCTS_38
+2016-05-24T12:59:43.43-05:00 UpgradeUtils/GetPropertiesForSecureCustom: Adding to securecustomactions property: OLDPRODUCTS_39
+2016-05-24T12:59:43.43-05:00 UpgradeUtils/GetPropertiesForSecureCustom: Adding to securecustomactions property: OLDPRODUCTS_40
+2016-05-24T12:59:43.43-05:00 UpgradeUtils/GetPropertiesForSecureCustom: Adding to securecustomactions property: OLDPRODUCTS_52
+2016-05-24T12:59:43.43-05:00 UpgradeUtils/GetPropertiesForSecureCustom: Adding to securecustomactions property: OLDPRODUCTS_53
+2016-05-24T12:59:43.43-05:00 UpgradeUtils/GetPropertiesForSecureCustom: Adding to securecustomactions property: OLDPRODUCTS_54
+2016-05-24T12:59:43.43-05:00 UpgradeUtils/GetPropertiesForSecureCustom: Adding to securecustomactions property: OLDPRODUCTS_55
+2016-05-24T12:59:43.43-05:00 UpgradeUtils/GetPropertiesForSecureCustom: Adding to securecustomactions property: OLDPRODUCTS_56
+2016-05-24T12:59:43.43-05:00 UpgradeUtils/GetPropertiesForSecureCustom: Adding to securecustomactions property: OLDPRODUCTS_57
+2016-05-24T12:59:43.43-05:00 UpgradeUtils/GetPropertiesForSecureCustom: Adding to securecustomactions property: OLDPRODUCTS_41
+2016-05-24T12:59:43.43-05:00 UpgradeUtils/GetPropertiesForSecureCustom: Adding to securecustomactions property: OLDPRODUCTS_42
+2016-05-24T12:59:43.43-05:00 UpgradeUtils/GetPropertiesForSecureCustom: Adding to securecustomactions property: OLDPRODUCTS_43
+2016-05-24T12:59:43.43-05:00 UpgradeUtils/GetPropertiesForSecureCustom: Adding to securecustomactions property: OLDPRODUCTS_44
+2016-05-24T12:59:43.43-05:00 UpgradeUtils/GetPropertiesForSecureCustom: Adding to securecustomactions property: OLDPRODUCTS_45
+2016-05-24T12:59:43.43-05:00 UpgradeUtils/GetPropertiesForSecureCustom: Adding to securecustomactions property: OLDPRODUCTS_46
+2016-05-24T12:59:43.43-05:00 UpgradeUtils/GetPropertiesForSecureCustom: Adding to securecustomactions property: OLDPRODUCTS_47
+2016-05-24T12:59:43.43-05:00 UpgradeUtils/GetPropertiesForSecureCustom: Adding to securecustomactions property: OLDPRODUCTS_48
+2016-05-24T12:59:43.43-05:00 UpgradeUtils/GetPropertiesForSecureCustom: Adding to securecustomactions property: OLDPRODUCTS_49
+2016-05-24T12:59:43.43-05:00 UpgradeUtils/GetPropertiesForSecureCustom: Adding to securecustomactions property: OLDPRODUCTS_50
+2016-05-24T12:59:43.43-05:00 UpgradeUtils/GetPropertiesForSecureCustom: Adding to securecustomactions property: OLDPRODUCTS_58
+2016-05-24T12:59:43.43-05:00 UpgradeUtils/GetPropertiesForSecureCustom: Adding to securecustomactions property: OLDPRODUCTS_59
+2016-05-24T12:59:43.43-05:00 UpgradeUtils/GetPropertiesForSecureCustom: PROGDIR;DATADIR;HANNOVER;SELECT_ADMIN;SELECT_DESIGNER;SELECT_EDITORS;ACTIONPROPERTY;OLDPRODUCTS;ACTIONPROP2;SUPPORTDIR;USENOTESFOREMAIL;USENOTESFORCALENDAR;USENOTESFORCONTACTS;PRELOADNOTES;SHAREDINSTALL;OLDPRODUCTS_1;OLDPRODUCTS_2;OLDPRODUCTS_3;OLDPRODUCTS_4;OLDPRODUCTS_5;OLDPRODUCTS_6;OLDPRODUCTS_7;OLDPRODUCTS_8;OLDPRODUCTS_9;OLDPRODUCTS_10;OLDPRODUCTS_11;OLDPRODUCTS_12;OLDPRODUCTS_13;OLDPRODUCTS_14;OLDPRODUCTS_15;OLDPRODUCTS_16;OLDPRODUCTS_17;OLDPRODUCTS_18;OLDPRODUCTS_19;OLDPRODUCTS_20;OLDPRODUCTS_21;OLDPRODUCTS_22;OLDPRODUCTS_23;OLDPRODUCTS_24;OLDPRODUCTS_25;OLDPRODUCTS_26;OLDPRODUCTS_27;OLDPRODUCTS_28;OLDPRODUCTS_29;OLDPRODUCTS_30;OLDPRODUCTS_31;OLDPRODUCTS_32;OLDPRODUCTS_33;OLDPRODUCTS_34;OLDPRODUCTS_35;OLDPRODUCTS_36;OLDPRODUCTS_37;OLDPRODUCTS_51;OLDPRODUCTS_38;OLDPRODUCTS_39;OLDPRODUCTS_40;OLDPRODUCTS_52;OLDPRODUCTS_53;OLDPRODUCTS_54;OLDPRODUCTS_55;OLDPRODUCTS_56;OLDPRODUCTS_57;OLDPRODUCTS_41;OLDPRODUCTS_42;OLDPRODUCTS_43;OLDPRODU,2016-05-24T12:59:43.43-05:00 UpgradeUtils/GetPropertiesForSecureCustom: Exiting
+2016-05-24T12:59:43.43-05:00 SetProperty Success: ODUCTS_49;OLDPRODUCTS_50;OLDPRODUCTS_58;OLDPRODUCTS_59 (Line 7800) set 'SecureCustomProperties' to 'PROGDIR;DATADIR;HANNOVER;SELECT_ADMIN;SELECT_DESIGNER;SELECT_EDITORS;ACTIONPROPERTY;OLDPRODUCTS;ACTIONPROP2;SUPPORTDIR;USENOTESFOREMAIL;USENOTESFORCALENDAR;
+2016-05-24T12:59:43.43-05:00 ODUCTS_49;OLDPRODUCTS_50;OLDPRODUCTS_58;OLDPRODUCTS_59: Exited
+2016-05-24T12:59:43.43-05:00 XPD: GenerateInfo/CheckForUpgrade: DEBUG - Entering
+2016-05-24T12:59:43.43-05:00 XPD: CActionsCommon/ResetTempPropFile: DEBUG - Entering
+2016-05-24T12:59:43.43-05:00 XPD: CActionsCommon/ResetTempPropFile: DEBUG - Exiting
+2016-05-24T12:59:43.43-05:00 XPD: GenerateInfo/getUpgradeType: DEBUG - Entering
+2016-05-24T12:59:43.43-05:00 XPD: StringResource/getLanguageInfo: DEBUG - Entering
+2016-05-24T12:59:43.43-05:00 XPD: CActionsCommon/GetProperty: DEBUG - Retrieved property: ProductLanguage, Value: 1033
+2016-05-24T12:59:43.43-05:00 XPD: StringResource/getLanguageInfo: INFO - Installer Language - ENGLISH
+2016-05-24T12:59:43.43-05:00 XPD: StringResource/getLanguageInfo: DEBUG - Exiting
+2016-05-24T12:59:43.43-05:00 XPD: StringResource/extractResourceFile: DEBUG - Entering
+2016-05-24T12:59:43.43-05:00 XPD: StringResource/extractResourceFile: DEBUG - Exiting
+2016-05-24T12:59:43.43-05:00 XPD: CActionsCommon/GetProperty: DEBUG - Retrieved property: UILevel, Value: 3
+2016-05-24T12:59:43.43-05:00 XPD: CActionsCommon/GetProperty: DEBUG - Retrieved property: REMOVE, Value: ALL
+2016-05-24T12:59:43.43-05:00 XPD: CActionsCommon/GetProperty: DEBUG - Retrieved property: UpgradeCode, Value: {5BA7CD07-4D6C-4D16-B1A6-2B50DD5F17AD}
+2016-05-24T12:59:43.43-05:00 XPD: GenerateInfo/verifyPlatform: DEBUG - Verifying existence of: C:\Program Files (x86)\IBM\Lotus\Notes\framework\rcp/rcplauncher.properties and C:\Program Files (x86)\IBM\Lotus\Notes\framework\rcp/rcplauncher.exe
+2016-05-24T12:59:43.43-05:00 XPD: GenerateInfo/verifyPlatform: DEBUG - Found C:\Program Files (x86)\IBM\Lotus\Notes\framework\rcp/rcplauncher.properties
+2016-05-24T12:59:43.43-05:00 XPD: GenerateInfo/verifyPlatform: DEBUG - Using this platform location for this installation - C:\Program Files (x86)\IBM\Lotus\Notes\framework\
+2016-05-24T12:59:43.43-05:00 XPD: CActionsCommon/GetProperty: DEBUG - Retrieved property: TARGETUPGRADECODE1, Value: {A68F0A65-F902-4EDA-AF80-0953B586DAA8}
+2016-05-24T12:59:43.43-05:00 XPD: CActionsCommon/GetProperty: DEBUG - Retrieved property: XPD_INSTALL_LOCATION.5F3129E8_3AD4_4346_AEE6_A314E2DE64D9, Value: C:/Program Files (x86)/IBM/Lotus/Notes/framework/
+2016-05-24T12:59:43.43-05:00 XPD: CActionsCommon/GetProperty: DEBUG - Retrieved property: UILevel, Value: 3
+2016-05-24T12:59:43.43-05:00 XPD: CActionsCommon/GetProperty: DEBUG - Retrieved property: XPD_INSTALL_LOCATION.5F3129E8_3AD4_4346_AEE6_A314E2DE64D9, Value: C:/Program Files (x86)/IBM/Lotus/Notes/framework/
+2016-05-24T12:59:43.43-05:00 XPD: GenerateInfo/verifyPlatform: DEBUG - Verifying existence of: C:\Program Files (x86)\IBM\Lotus\Notes\framework\rcp/rcplauncher.properties and C:\Program Files (x86)\IBM\Lotus\Notes\framework\rcp/rcplauncher.exe
+2016-05-24T12:59:43.43-05:00 XPD: GenerateInfo/verifyPlatform: DEBUG - Found C:\Program Files (x86)\IBM\Lotus\Notes\framework\rcp/rcplauncher.properties
+2016-05-24T12:59:43.43-05:00 XPD: GenerateInfo/verifyPlatform: DEBUG - Using this platform location for this installation - C:\Program Files (x86)\IBM\Lotus\Notes\framework\
+2016-05-24T12:59:43.43-05:00 XPD: GenerateInfo/getUpgradeType: DEBUG - Found pre-existing platform files, determining type of upgrade...
+2016-05-24T12:59:43.43-05:00 XPD: CActionsCommon/GetProperty: DEBUG - Retrieved property: HOTFIX_VERSION.5F3129E8_3AD4_4346_AEE6_A314E2DE64D9, Value: FP2
+2016-05-24T12:59:43.43-05:00 XPD: GenerateInfo/getUpgradeType: DEBUG - Get all ActionProperties from Upgrade table...
+2016-05-24T12:59:43.43-05:00 XPD: CActionsCommon/GetProperty: DEBUG - Retrieved property: UpgradeCode, Value: {5BA7CD07-4D6C-4D16-B1A6-2B50DD5F17AD}
+2016-05-24T12:59:43.43-05:00 XPD: GenerateInfo/getUpgradeType: DEBUG - Examining each ActionProperty to see if it contains a value...
+2016-05-24T12:59:43.43-05:00 XPD: CActionsCommon/GetProperty: DEBUG - Retrieved property: Installed, Value: 2010/08/11 08:28:36
+2016-05-24T12:59:43.43-05:00 XPD: CActionsCommon/GetProperty: DEBUG - Retrieved property: ProductCode, Value: {07C69B3A-62B3-41BF-82EE-B3A87BD6EA0C}
+2016-05-24T12:59:43.43-05:00 XPD: CActionsCommon/GetProperty: DEBUG - Retrieved property: COREINSTALLDIR, Value: C:\Program Files (x86)\IBM\Lotus\Notes\framework\
+2016-05-24T12:59:43.43-05:00 XPD: GenerateInfo/LogInstallType: DEBUG - Entering
+2016-05-24T12:59:43.43-05:00 XPD: GenerateInfo/LogInstallType: INFO - XPD_UPGRADE - PRODUCT_INSTALL
+2016-05-24T12:59:43.43-05:00 XPD: GenerateInfo/LogInstallType: DEBUG - Exiting
+2016-05-24T12:59:43.43-05:00 XPD: GenerateInfo/getUpgradeType: DEBUG - Exiting
+2016-05-24T12:59:43.43-05:00 XPD: GenerateInfo/CheckForUpgrade: DEBUG - Exiting
+2016-05-24T12:59:43.43-05:00 UpgradeUtils/IsInstallFromAdminImage: Entered
+2016-05-24T12:59:43.43-05:00 UpgradeUtils/IsInstallFromAdminImage: IsAdminPackage returned: 
+2016-05-24T12:59:43.43-05:00 UpgradeUtils/IsInstallFromAdminImage: This install is NOT from an Admin image
+2016-05-24T12:59:43.43-05:00 UpgradeUtils/IsInstallFromAdminImage: Exiting
+2016-05-24T12:59:43.43-05:00 UpgradeUtils/IsMSIMajorUpgrade: Exited
+2016-05-24T12:59:43.43-05:00 GetProperty Success: UpgradeUtils/exeInitialize (Line 1707) got '3' for 'UILevel' from MSI
+2016-05-24T12:59:43.43-05:00 UpgradeUtils/exeInitialize: Silent install detected.
+2016-05-24T12:59:43.43-05:00 UpgradeUtils/SetInstallType: Entered
+2016-05-24T12:59:43.43-05:00 GetProperty Success: UpgradeUtils/SetInstallType (Line 4012) got 'NotesClient,StandardClient,StandardNotesClient' for 'ISReleaseFlags' from MSI
+2016-05-24T12:59:43.43-05:00 GetProperty Success: UpgradeUtils/SetInstallType (Line 4026) got '' for 'NOMAD' from MSI
+2016-05-24T12:59:43.43-05:00 UpgradeUtils/SetInstallType: Standard client detected, incrementing InstallMode
+2016-05-24T12:59:43.43-05:00 SetProperty Success: UpgradeUtils/SetInstallType (Line 4047) set 'INSTALLMODE' to '1' in MSI
+2016-05-24T12:59:43.43-05:00 SetProperty Success: UpgradeUtils/SetInstallType (Line 4048) set 'INSTALLMODE' to '1' in registry
+2016-05-24T12:59:43.43-05:00 SetProperty Success: UpgradeUtils/SetInstallType (Line 4065) set 'INSTALLTYPE' to 'NotesClient' in MSI
+2016-05-24T12:59:43.43-05:00 SetProperty Success: UpgradeUtils/SetInstallType (Line 4066) set 'INSTALLTYPE' to 'NotesClient' in registry
+2016-05-24T12:59:43.43-05:00 GetProperty Success: UpgradeUtils/SetInstallType (Line 4071) got 'NotesClient' for 'INSTALLTYPE' from MSI
+2016-05-24T12:59:43.43-05:00 GetProperty Success: UpgradeUtils/SetInstallType (Line 4075) got 'NotesClient' for 'INSTALLTYPE' from registry
+2016-05-24T12:59:43.43-05:00 UpgradeUtils/SetInstallType: Exiting
+2016-05-24T12:59:43.43-05:00 Function IsUpgradeBuild: Release flags  FALSE   NotesClient,StandardClient,StandardNotesClient
+2016-05-24T12:59:43.43-05:00 UpgradeUtils/IsUninstall: Entered
+2016-05-24T12:59:43.43-05:00 GetProperty Success: UpgradeUtils/IsUninstall (Line 3427) got 'ALL' for 'REMOVE' from MSI
+2016-05-24T12:59:43.43-05:00 UpgradeUtils/IsUninstall: This is an uninstall
+2016-05-24T12:59:43.43-05:00 UpgradeUtils/IsUninstall: Exiting
+2016-05-24T12:59:43.43-05:00 UpgradeUtils/CountNotes6Products: Entered
+2016-05-24T12:59:43.43-05:00 UpgradeUtils/CountNotes6Products: Searching the installed Notes6 product as MultiUser...
+2016-05-24T12:59:43.43-05:00 UpgradeUtils/CountNotes6Products: Did not find Notes6 registry key
+2016-05-24T12:59:43.43-05:00 UpgradeUtils/CountNotes6Products: Did not find a Notes6 product
+2016-05-24T12:59:43.43-05:00 UpgradeUtils/IsMSIMajorUpgrade: Exited
+2016-05-24T12:59:43.43-05:00 SetProperty Success: UpgradeUtils/exeInitialize (Line 1779) set 'MSIMajorUpgrade' to 'No' in MSI
+2016-05-24T12:59:43.43-05:00 SetProperty Success: UpgradeUtils/exeInitialize (Line 1780) set 'MSIMajorUpgrade' to 'No' in registry
+2016-05-24T12:59:43.43-05:00 UpgradeUtils/IsMUIPackEnabled: Entered
+2016-05-24T12:59:43.43-05:00 UpgradeUtils/IsMUIPackEnabled: Exited
+2016-05-24T12:59:43.43-05:00 SetProperty Success: UpgradeUtils/exeInitialize (Line 1822) set 'MUIPackEnabled' to 'No' in MSI
+2016-05-24T12:59:43.43-05:00 SetProperty Success: UpgradeUtils/exeInitialize (Line 1823) set 'MUIPackEnabled' to 'No' in registry
+2016-05-24T12:59:43.43-05:00 MSI ERROR: "UpgradeUtils/exeInitialize (Line 1828): Error - 'GetPropertyFromRegistry' for 'NOTESVERSION' failed with return code '2' - The system cannot find the file specified.
+."
+2016-05-24T12:59:43.43-05:00 SetProperty Success: UpgradeUtils/exeInitialize (Line 1829) set 'PREVNOTESVERSION' to '' in MSI
+2016-05-24T12:59:43.43-05:00 SetProperty Success: UpgradeUtils/exeInitialize (Line 1830) set 'PREVNOTESVERSION' to '' in registry
+2016-05-24T12:59:43.43-05:00 UpgradeUtils/SetPathsFromRegistry: 8.0 subkey found.
+2016-05-24T12:59:43.43-05:00 UpgradeUtils/SetPathsFromRegistry: Program Path query returned C:\Program Files (x86)\IBM\Lotus\Notes
+2016-05-24T12:59:43.43-05:00 UpgradeUtils/SetPathsFromRegistry: Data path query returned C:\IBM
+2016-05-24T12:59:43.43-05:00 UpgradeUtils/SetPathsFromRegistry: MultiUser query returned 1
+2016-05-24T12:59:43.43-05:00 SetProperty Success: UpgradeUtils/SetPathsFromRegistry (Line 4218) set 'INSTALLDIR' to 'C:\Program Files (x86)\IBM\Lotus\Notes' in MSI
+2016-05-24T12:59:43.43-05:00 SetProperty Success: UpgradeUtils/SetPathsFromRegistry (Line 4219) set 'PROGDIR' to 'C:\Program Files (x86)\IBM\Lotus\Notes' in MSI
+2016-05-24T12:59:43.43-05:00 SetProperty Success: UpgradeUtils/SetPathsFromRegistry (Line 4220) set 'DATADIR' to 'C:\IBM' in MSI
+2016-05-24T12:59:43.43-05:00 SetProperty Success: UpgradeUtils/SetPathsFromRegistry (Line 4223) set 'MULTIUSERCOMMONDIR' to 'C:\Documents and Settings\All Users\Application Data' in MSI
+2016-05-24T12:59:43.43-05:00 SetProperty Success: UpgradeUtils/SetPathsFromRegistry (Line 4224) set 'MULTIUSERBASEDIR' to 'C:\IBM' in MSI
+2016-05-24T12:59:43.43-05:00 UpgradeUtils/SetPathsFromRegistry: Previous install was a multiuser install.
+2016-05-24T12:59:43.43-05:00 SetProperty Success: UpgradeUtils/SetPathsFromRegistry (Line 4232) set 'MULTIUSER' to 'Previous' in MSI
+2016-05-24T12:59:43.43-05:00 SetProperty Success: UpgradeUtils/SetPathsFromRegistry (Line 4233) set 'ApplicationUsers' to 'AllUsers' in MSI
+2016-05-24T12:59:43.43-05:00 UpgradeUtils/GetInstallType: Entered
+2016-05-24T12:59:43.43-05:00 GetProperty Success: UpgradeUtils/GetInstallType (Line 3140) got 'NotesClient' for 'INSTALLTYPE' from registry
+2016-05-24T12:59:43.43-05:00 UpgradeUtils/GetInstallType: InstallType is NotesClient
+2016-05-24T12:59:43.43-05:00 UpgradeUtils/GetInstallType: Exiting
+2016-05-24T12:59:43.43-05:00 UpgradeUtils/exeInitialize: Previous installation detected. 
+2016-05-24T12:59:43.43-05:00 SetProperty Success: UpgradeUtils/exeInitialize (Line 1863) set 'PREVIOUSINSTALLDETECTED' to 'Yes' in MSI
+2016-05-24T12:59:43.43-05:00 GetProperty Success: UpgradeUtils/exeInitialize (Line 1867) got 'AllUsers' for 'ApplicationUsers' from MSI
+2016-05-24T12:59:43.43-05:00 SetProperty Success: UpgradeUtils/exeInitialize (Line 1868) set 'ApplicationUsers' to 'AllUsers' in registry
+2016-05-24T12:59:43.43-05:00 SetProperty Success: UpgradeUtils/exeInitialize (Line 1869) set 'ApplicationUsers' to 'AllUsers' in MSI
+2016-05-24T12:59:43.43-05:00 UpgradeUtils/IsUninstall: Entered
+2016-05-24T12:59:43.43-05:00 GetProperty Success: UpgradeUtils/IsUninstall (Line 3427) got 'ALL' for 'REMOVE' from MSI
+2016-05-24T12:59:43.43-05:00 UpgradeUtils/IsUninstall: This is an uninstall
+2016-05-24T12:59:43.43-05:00 UpgradeUtils/IsUninstall: Exiting
+2016-05-24T12:59:43.43-05:00 MSI ERROR: "UpgradeUtils/exeInitialize (Line 1876): Error - 'GetPropertyFromRegistry' for 'INSTALLDIR' failed with return code '2' - The system cannot find the file specified.
+."
+2016-05-24T12:59:43.43-05:00 SetProperty Success: UpgradeUtils/exeInitialize (Line 1883) set 'INSTALLDIR' to '' in MSI
+2016-05-24T12:59:43.43-05:00 SetProperty Success: UpgradeUtils/exeInitialize (Line 1884) set 'PROGDIR' to '' in MSI
+2016-05-24T12:59:43.43-05:00 UpgradeUtils/IsUninstall: Entered
+2016-05-24T12:59:43.43-05:00 GetProperty Success: UpgradeUtils/IsUninstall (Line 3427) got 'ALL' for 'REMOVE' from MSI
+2016-05-24T12:59:43.43-05:00 UpgradeUtils/IsUninstall: This is an uninstall
+2016-05-24T12:59:43.43-05:00 UpgradeUtils/IsUninstall: Exiting
+2016-05-24T12:59:43.43-05:00 MSI ERROR: "UpgradeUtils/exeInitialize (Line 1889): Error - 'GetPropertyFromRegistry' for 'DATADIR' failed with return code '2' - The system cannot find the file specified.
+."
+2016-05-24T12:59:43.43-05:00 SetProperty Success: UpgradeUtils/exeInitialize (Line 1895) set 'DATADIR' to '' in MSI
+2016-05-24T12:59:45.45-05:00 XPD: GenerateInfo/CheckIfPlatformRunningExec: DEBUG - Entering
+2016-05-24T12:59:45.45-05:00 XPD: CActionsCommon/GetProperty: DEBUG - Retrieved property: COREINSTALLDIR, Value: C:\Program Files (x86)\IBM\Lotus\Notes\framework\
+2016-05-24T12:59:45.45-05:00 XPD: CActionsCommon/GetPropertyFromLauncherPropFile: DEBUG - Entering
+2016-05-24T12:59:45.45-05:00 XPD: CActionsCommon/GetProperty: DEBUG - Retrieved property: COREINSTALLDIR, Value: C:\Program Files (x86)\IBM\Lotus\Notes\framework\
+2016-05-24T12:59:45.45-05:00 XPD: CActionsCommon/GetPropertyFromLauncherPropFile: DEBUG - Exiting
+2016-05-24T12:59:45.45-05:00 XPD: GenerateInfo/CheckIfPlatformRunningExec: DEBUG - Exiting
+2016-05-24T12:59:45.45-05:00 UpgradeUtils/IsUninstall: Entered
+2016-05-24T12:59:45.45-05:00 GetProperty Success: UpgradeUtils/IsUninstall (Line 3427) got 'ALL' for 'REMOVE' from MSI
+2016-05-24T12:59:45.45-05:00 UpgradeUtils/IsUninstall: This is an uninstall
+2016-05-24T12:59:45.45-05:00 UpgradeUtils/IsUninstall: Exiting
+2016-05-24T01:00:13.13-05:00 XPD: GenerateInfo/CheckForUpgradeNUC: DEBUG - Entering
+2016-05-24T01:00:13.13-05:00 XPD: GenerateInfo/getUpgradeType: DEBUG - Entering
+2016-05-24T01:00:13.13-05:00 XPD: CActionsCommon/GetProperty: DEBUG - Retrieved property: ENABLE_ERROR_POPUPS, Value: true
+2016-05-24T01:00:13.13-05:00 XPD: CActionsCommon/GetProperty: DEBUG - Retrieved property: UILevel, Value: 3
+2016-05-24T01:00:13.13-05:00 XPD: CActionsCommon/GetProperty: DEBUG - Retrieved property: REMOVE, Value: ALL
+2016-05-24T01:00:13.13-05:00 XPD: CActionsCommon/GetProperty: DEBUG - Retrieved property: UpgradeCode, Value: {5BA7CD07-4D6C-4D16-B1A6-2B50DD5F17AD}
+2016-05-24T01:00:13.13-05:00 XPD: GenerateInfo/verifyPlatform: DEBUG - Verifying existence of: C:\Program Files (x86)\IBM\Lotus\Notes\framework\rcp/rcplauncher.properties and C:\Program Files (x86)\IBM\Lotus\Notes\framework\rcp/rcplauncher.exe
+2016-05-24T01:00:13.13-05:00 XPD: GenerateInfo/verifyPlatform: DEBUG - Found C:\Program Files (x86)\IBM\Lotus\Notes\framework\rcp/rcplauncher.properties
+2016-05-24T01:00:13.13-05:00 XPD: GenerateInfo/verifyPlatform: DEBUG - Using this platform location for this installation - C:\Program Files (x86)\IBM\Lotus\Notes\framework\
+2016-05-24T01:00:13.13-05:00 XPD: CActionsCommon/GetProperty: DEBUG - Retrieved property: TARGETUPGRADECODE1, Value: {A68F0A65-F902-4EDA-AF80-0953B586DAA8}
+2016-05-24T01:00:13.13-05:00 XPD: CActionsCommon/GetProperty: DEBUG - Retrieved property: XPD_INSTALL_LOCATION.5F3129E8_3AD4_4346_AEE6_A314E2DE64D9, Value: C:/Program Files (x86)/IBM/Lotus/Notes/framework/
+2016-05-24T01:00:13.13-05:00 XPD: CActionsCommon/GetProperty: DEBUG - Retrieved property: UILevel, Value: 3
+2016-05-24T01:00:13.13-05:00 XPD: CActionsCommon/GetProperty: DEBUG - Retrieved property: XPD_INSTALL_LOCATION.5F3129E8_3AD4_4346_AEE6_A314E2DE64D9, Value: C:/Program Files (x86)/IBM/Lotus/Notes/framework/
+2016-05-24T01:00:13.13-05:00 XPD: GenerateInfo/verifyPlatform: DEBUG - Verifying existence of: C:\Program Files (x86)\IBM\Lotus\Notes\framework\rcp/rcplauncher.properties and C:\Program Files (x86)\IBM\Lotus\Notes\framework\rcp/rcplauncher.exe
+2016-05-24T01:00:13.13-05:00 XPD: GenerateInfo/verifyPlatform: DEBUG - Found C:\Program Files (x86)\IBM\Lotus\Notes\framework\rcp/rcplauncher.properties
+2016-05-24T01:00:13.13-05:00 XPD: GenerateInfo/verifyPlatform: DEBUG - Using this platform location for this installation - C:\Program Files (x86)\IBM\Lotus\Notes\framework\
+2016-05-24T01:00:13.13-05:00 XPD: GenerateInfo/getUpgradeType: DEBUG - Found pre-existing platform files, determining type of upgrade...
+2016-05-24T01:00:13.13-05:00 XPD: CActionsCommon/GetProperty: DEBUG - Retrieved property: HOTFIX_VERSION.5F3129E8_3AD4_4346_AEE6_A314E2DE64D9, Value: FP2
+2016-05-24T01:00:13.13-05:00 XPD: GenerateInfo/getUpgradeType: DEBUG - Get all ActionProperties from Upgrade table...
+2016-05-24T01:00:13.13-05:00 XPD: CActionsCommon/GetProperty: DEBUG - Retrieved property: UpgradeCode, Value: {5BA7CD07-4D6C-4D16-B1A6-2B50DD5F17AD}
+2016-05-24T01:00:13.13-05:00 XPD: GenerateInfo/getUpgradeType: DEBUG - Examining each ActionProperty to see if it contains a value...
+2016-05-24T01:00:14.14-05:00 XPD: CActionsCommon/GetProperty: DEBUG - Retrieved property: Installed, Value: 2010/08/11 08:28:36
+2016-05-24T01:00:14.14-05:00 XPD: CActionsCommon/GetProperty: DEBUG - Retrieved property: ProductCode, Value: {07C69B3A-62B3-41BF-82EE-B3A87BD6EA0C}
+2016-05-24T01:00:14.14-05:00 XPD: CActionsCommon/GetProperty: DEBUG - Retrieved property: COREINSTALLDIR, Value: C:\Program Files (x86)\IBM\Lotus\Notes\framework\
+2016-05-24T01:00:14.14-05:00 XPD: GenerateInfo/LogInstallType: DEBUG - Entering
+2016-05-24T01:00:14.14-05:00 XPD: GenerateInfo/LogInstallType: INFO - XPD_UPGRADE - PRODUCT_INSTALL
+2016-05-24T01:00:14.14-05:00 XPD: GenerateInfo/LogInstallType: DEBUG - Exiting
+2016-05-24T01:00:14.14-05:00 XPD: GenerateInfo/getUpgradeType: DEBUG - Exiting
+2016-05-24T01:00:14.14-05:00 XPD: GenerateInfo/CheckForUpgradeNUC: DEBUG - Exiting
+2016-05-24T01:00:14.14-05:00 XPD: GenerateInfo/SetDefaultProps: DEBUG - Entering
+2016-05-24T01:00:14.14-05:00 XPD: CActionsCommon/ResetTempPropFile: DEBUG - Entering
+2016-05-24T01:00:14.14-05:00 XPD: CActionsCommon/ResetTempPropFile: DEBUG - Exiting
+2016-05-24T01:00:14.14-05:00 XPD: StringResource/getLanguageInfo: DEBUG - Entering
+2016-05-24T01:00:14.14-05:00 XPD: CActionsCommon/GetProperty: DEBUG - Retrieved property: ProductLanguage, Value: 1033
+2016-05-24T01:00:14.14-05:00 XPD: StringResource/getLanguageInfo: INFO - Installer Language - ENGLISH
+2016-05-24T01:00:14.14-05:00 XPD: StringResource/getLanguageInfo: DEBUG - Exiting
+2016-05-24T01:00:14.14-05:00 XPD: StringResource/extractResourceFile: DEBUG - Entering
+2016-05-24T01:00:14.14-05:00 XPD: StringResource/extractResourceFile: DEBUG - Exiting
+2016-05-24T01:00:14.14-05:00 XPD: CActionsCommon/getUserHome: DEBUG - Entering
+2016-05-24T01:00:14.14-05:00 XPD: CActionsCommon/getUserHome: DEBUG - Exiting
+2016-05-24T01:00:14.14-05:00 XPD: GenerateInfo/SetDefaultProps: INFO - XPD_USERHOME - C:\Users\c91356
+2016-05-24T01:00:14.14-05:00 XPD: CActionsCommon/setSetupExeDir: DEBUG - Entering
+2016-05-24T01:00:14.14-05:00 XPD: CActionsCommon/setSetupExeDir: DEBUG - Exiting
+2016-05-24T01:00:14.14-05:00 XPD: CActionsCommon/GetProperty: DEBUG - Retrieved property: TARGETUPGRADECODE1, Value: {A68F0A65-F902-4EDA-AF80-0953B586DAA8}
+2016-05-24T01:00:14.14-05:00 XPD: CActionsCommon/GetProperty: DEBUG - Retrieved property: REGISTRY_HOTFIX_VERSION, Value: FP2
+2016-05-24T01:00:14.14-05:00 XPD: CActionsCommon/GetProperty: DEBUG - Retrieved property: UILevel, Value: 3
+2016-05-24T01:00:14.14-05:00 XPD: CActionsCommon/GetProperty: DEBUG - Retrieved property: Privileged, Value: 1
+2016-05-24T01:00:14.14-05:00 XPD: CActionsCommon/GetProperty: DEBUG - Retrieved property: COREINSTALLDIR, Value: C:\Program Files (x86)\IBM\Lotus\Notes\framework\
+2016-05-24T01:00:14.14-05:00 XPD: CActionsCommon/GetProperty: DEBUG - Retrieved property: RCPDATA, Value: C:\IBM\Lotus\Notes\Data\workspace
+2016-05-24T01:00:14.14-05:00 XPD: CActionsCommon/GetProperty: DEBUG - Retrieved property: ProductVersion, Value: 8.52.10222
+2016-05-24T01:00:14.14-05:00 XPD: CActionsCommon/GetProperty: DEBUG - Retrieved property: ProductCode, Value: {07C69B3A-62B3-41BF-82EE-B3A87BD6EA0C}
+2016-05-24T01:00:14.14-05:00 XPD: CActionsCommon/GetProperty: DEBUG - Retrieved property: UpgradeCode, Value: {5BA7CD07-4D6C-4D16-B1A6-2B50DD5F17AD}
+2016-05-24T01:00:14.14-05:00 XPD: CActionsCommon/GetProperty: DEBUG - Retrieved property: ShowCustomFeatures, Value: true
+2016-05-24T01:00:14.14-05:00 XPD: CActionsCommon/GetProperty: DEBUG - Retrieved property: INSTALLCONFIGURATION, Value: multiuser
+2016-05-24T01:00:14.14-05:00 XPD: CActionsCommon/GetProperty: DEBUG - Retrieved property: eclipseName, Value: notes2.exe
+2016-05-24T01:00:14.14-05:00 XPD: CActionsCommon/GetProperty: DEBUG - Retrieved property: jvmPluginID, Value: com.ibm.rcp.j2se.win32.x86
+2016-05-24T01:00:14.14-05:00 XPD: CActionsCommon/GetProperty: DEBUG - Retrieved property: jvmFeatureID, Value: com.ibm.rcp.j2se.win32.x86.feature
+2016-05-24T01:00:14.14-05:00 XPD: CActionsCommon/GetProperty: DEBUG - Retrieved property: REMOVEUSERDATA, Value: false
+2016-05-24T01:00:14.14-05:00 XPD: CActionsCommon/GetProperty: DEBUG - Retrieved property: RCPLOCALE, Value: en
+2016-05-24T01:00:14.14-05:00 XPD: CActionsCommon/GetProperty: DEBUG - Retrieved property: RCPIGNORELINKS, Value: false
+2016-05-24T01:00:14.14-05:00 XPD: CActionsCommon/GetProperty: DEBUG - Retrieved property: ProductName, Value: Lotus Notes 8.5.2
+2016-05-24T01:00:14.14-05:00 XPD: CActionsCommon/GetProperty: DEBUG - Retrieved property: ProductState, Value: 5
+2016-05-24T01:00:14.14-05:00 XPD: CActionsCommon/GetProperty: DEBUG - Retrieved property: EXTERNAL_JVM_LOCATION, Value: ${rcp.home}/../jvm/bin/
+2016-05-24T01:00:14.14-05:00 XPD: CActionsCommon/GetProperty: DEBUG - Retrieved property: REMOVE, Value: ALL
+2016-05-24T01:00:14.14-05:00 XPD: CActionsCommon/GetProperty: DEBUG - Retrieved property: AUTOLOGFILE, Value: C:\Users\c91356\Documents\LotusInstall.log
+2016-05-24T01:00:14.14-05:00 XPD: CActionsCommon/GetProperty: DEBUG - Retrieved property: XPD_INSTALL_LOCATION.5F3129E8_3AD4_4346_AEE6_A314E2DE64D9, Value: C:/Program Files (x86)/IBM/Lotus/Notes/framework/
+2016-05-24T01:00:14.14-05:00 XPD: CActionsCommon/GetProperty: DEBUG - Retrieved property: COREINSTALLDIR, Value: C:\Program Files (x86)\IBM\Lotus\Notes\framework\
+2016-05-24T01:00:14.14-05:00 XPD: GenerateInfo/SetDefaultProps: INFO - COREINSTALLDIR - C:\Program Files (x86)\IBM\Lotus\Notes\framework\
+2016-05-24T01:00:14.14-05:00 XPD: GenerateInfo/SetDefaultProps: DEBUG - Exiting
+2016-05-24T01:00:14.14-05:00 SUCCESS:: UpgradeUtils/DumpUpgradeTable (Line 7740): Call 'MsiDatabaseOpenView' for 'Upgrade' succeeded
+2016-05-24T01:00:14.14-05:00 SUCCESS:: UpgradeUtils/DumpUpgradeTable (Line 7743): Call 'MsiViewExecute' for 'Upgrade' succeeded
+2016-05-24T01:00:14.14-05:00 SUCCESS:: UpgradeUtils/DumpUpgradeTable (Line 7745): Call 'MsiViewFetch' for 'Upgrade' succeeded
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: {D8641E4B-77AF-4EAC-9137-8D4DCB1478E2}
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: 
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: 8.52.10222
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: 
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: 257
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: 
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: ACTIONPROPERTY
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: {A68F0A65-F902-4EDA-AF80-0953B586DAA8}
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: 
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: 8.52.10222
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: 
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: 257
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: 
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: ACTIONPROP2
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: {602E2418-8380-456E-99D1-A042D04E4F56}
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: 6.00.0000
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: 
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: 
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: 513
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: 
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: OLDPRODUCTS_1
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: {790887DC-1465-4DC2-B000-AA473DD986DA}
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: 6.00.0000
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: 
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: 
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: 513
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: 
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: OLDPRODUCTS_2
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: {DCB4B1D1-AD22-4A95-BC1E-EF223E30A1D7}
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: 6.00.0000
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: 
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: 
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: 513
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: 
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: OLDPRODUCTS_3
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: {015FA084-01BD-45A2-B816-01A3E438477C}
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: 6.00.0000
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: 
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: 
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: 513
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: 
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: OLDPRODUCTS_4
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: {7ED2D232-22D1-4140-AC75-8F0023C3A768}
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: 6.00.0000
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: 
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: 
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: 513
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: 
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: OLDPRODUCTS_5
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: {84C25FBE-9802-4EED-A01F-07978D2443E0}
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: 6.00.0000
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: 
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: 
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: 513
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: 
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: OLDPRODUCTS_6
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: {2565E7E9-0D77-4FDD-8674-A61B72DA695F}
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: 6.00.0000
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: 
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: 
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: 513
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: 
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: OLDPRODUCTS_7
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: {7D43005C-A1B1-450A-9B5A-8E08A5738BE5}
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: 6.00.0000
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: 
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: 
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: 513
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: 
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: OLDPRODUCTS_8
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: {E7A23380-6731-4286-B7EA-E330364CB1C4}
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: 6.00.0000
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: 
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: 
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: 513
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: 
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: OLDPRODUCTS_9
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: {1840F4F0-33F0-4388-BFBD-1B8830AEFF78}
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: 6.00.0000
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: 
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: 
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: 513
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: 
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: OLDPRODUCTS_10
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: {1EA5C267-B2DB-437C-AB53-AE385444271C}
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: 6.00.0000
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: 
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: 
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: 513
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: 
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: OLDPRODUCTS_11
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: {78D46466-F71C-4CA4-9532-2FD1E66D2A37}
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: 6.00.0000
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: 
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: 
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: 513
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: 
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: OLDPRODUCTS_12
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: {6C47D4E6-B3F9-4B07-9E67-9BB227AD1571}
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: 6.00.0000
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: 
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: 
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: 513
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: 
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: OLDPRODUCTS_13
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: {9E0791C7-E9F8-4A8A-BCFA-53401A5AB1D7}
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: 6.00.0000
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: 
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: 
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: 513
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: 
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: OLDPRODUCTS_14
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: {FDE7FA8C-D9F9-40FD-8C2A-2F80552C6B24}
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: 6.00.0000
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: 
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: 
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: 513
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: 
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: OLDPRODUCTS_15
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: {4D5B05A0-A883-4020-9773-5EAE8910692A}
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: 6.00.0000
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: 
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: 
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: 513
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: 
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: OLDPRODUCTS_16
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: {CEBCD43D-9C44-4DE2-BA9F-117B0509ACA3}
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: 6.00.0000
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: 
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: 
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: 513
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: 
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: OLDPRODUCTS_17
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: {2120083E-4B22-467D-BEC1-588611A4456D}
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: 6.00.0000
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: 
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: 
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: 513
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: 
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: OLDPRODUCTS_18
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: {6BF79565-87F0-4392-9C9E-0315A48BF206}
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: 6.00.0000
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: 
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: 
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: 513
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: 
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: OLDPRODUCTS_19
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: {CA300124-CA1A-481E-9F2A-9B806F83CBAE}
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: 6.00.0000
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: 
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: 
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: 513
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: 
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: OLDPRODUCTS_20
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: {1167CF61-95EF-4E45-9906-7C1213F79BCB}
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: 6.00.0000
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: 
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: 
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: 513
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: 
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: OLDPRODUCTS_21
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: {47C4C0CA-8D9F-4C0E-A12E-DBAD523DA6AA}
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: 6.00.0000
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: 
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: 
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: 513
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: 
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: OLDPRODUCTS_22
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: {D86A6716-B12E-4DB0-B1CD-E44F98E66DAE}
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: 6.00.0000
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: 
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: 
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: 513
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: 
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: OLDPRODUCTS_23
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: {09175872-711E-42FA-8066-A6A2A399B356}
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: 6.00.0000
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: 
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: 
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: 513
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: 
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: OLDPRODUCTS_24
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: {1B6B881C-1648-459C-8688-7BE2CB5ACD63}
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: 6.00.0000
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: 
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: 
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: 513
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: 
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: OLDPRODUCTS_25
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: {7E0074E1-5C2B-40A2-8ACD-15C923B0B334}
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: 6.00.0000
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: 
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: 
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: 513
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: 
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: OLDPRODUCTS_26
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: {16347247-F1E8-4801-9715-06B0D7C8DA86}
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: 6.00.0000
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: 
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: 
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: 513
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: 
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: OLDPRODUCTS_27
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: {60CF1BEF-8F92-4614-B155-81DEC5FD6435}
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: 6.00.0000
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: 
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: 
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: 513
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: 
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: OLDPRODUCTS_28
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: {F64F1122-74D0-4DAB-B4A7-87E221658A0E}
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: 6.00.0000
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: 
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: 
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: 513
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: 
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: OLDPRODUCTS_29
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: {4A29A115-4A56-44BD-A2EB-A2570422A067}
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: 6.00.0000
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: 
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: 
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: 513
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: 
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: OLDPRODUCTS_30
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: {C5E3FD8F-A3D4-43EF-AF28-DE507182862C}
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: 6.00.0000
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: 
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: 
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: 513
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: 
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: OLDPRODUCTS_31
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: {C74B43C8-DBEC-44A5-B42F-B84A7F089A18}
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: 6.00.0000
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: 
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: 
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: 513
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: 
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: OLDPRODUCTS_32
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: {9FFC5AB2-531C-47D5-8AAF-DC5B431D96F1}
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: 6.00.0000
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: 
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: 
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: 513
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: 
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: OLDPRODUCTS_33
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: {9DD58880-B13D-4122-9CA5-FCB43C861D01}
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: 6.00.0000
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: 
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: 
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: 513
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: 
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: OLDPRODUCTS_34
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: {0E3B6FEA-03E8-4113-BBA3-7D65DFF099D0}
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: 6.00.0000
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: 
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: 
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: 513
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: 
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: OLDPRODUCTS_35
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: {42008565-63EB-4DB4-BF18-1629B05F2558}
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: 6.00.0000
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: 
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: 
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: 513
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: 
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: OLDPRODUCTS_36
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: {9CEE0205-F399-4A14-B21E-4E4C6537A263}
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: 6.00.0000
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: 
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: 
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: 513
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: 
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: OLDPRODUCTS_37
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: {E78A21D1-6543-4750-9A76-B3C801E0A5DE}
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: 6.00.0000
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: 
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: 
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: 513
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: 
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: OLDPRODUCTS_51
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: {0D6DBB98-97E5-4BD5-B727-640E94EB7614}
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: 6.00.0000
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: 
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: 
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: 513
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: 
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: OLDPRODUCTS_38
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: {54D50676-C611-438C-9852-8A39D7F7651E}
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: 6.00.0000
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: 
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: 
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: 513
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: 
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: OLDPRODUCTS_39
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: {746D18A2-AA5C-45C8-BD88-E2E149BF0211}
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: 6.00.0000
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: 
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: 
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: 513
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: 
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: OLDPRODUCTS_40
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: {3468DDE9-53E5-4437-B3BA-A0D2D95ACE14}
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: 6.00.0000
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: 
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: 
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: 513
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: 
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: OLDPRODUCTS_52
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: {3E35BC2C-C30C-45B7-9C33-93096F0C5582}
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: 6.00.0000
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: 
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: 
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: 513
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: 
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: OLDPRODUCTS_53
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: {CD70C815-1401-4595-877F-D4B78D17B40B}
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: 6.00.0000
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: 
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: 
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: 513
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: 
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: OLDPRODUCTS_54
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: {0DCA8CAD-EB4B-438A-BE5C-0052E3900BF2}
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: 6.00.0000
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: 
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: 
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: 513
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: 
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: OLDPRODUCTS_55
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: {818E15B6-1DF4-4688-83DA-5A3DA4925B66}
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: 6.00.0000
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: 
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: 
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: 513
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: 
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: OLDPRODUCTS_56
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: {C6813137-8B24-43F6-89C2-C5134C2DB883}
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: 6.00.0000
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: 
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: 
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: 513
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: 
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: OLDPRODUCTS_57
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: {4B254269-0404-456C-97B3-5967270E0631}
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: 6.00.0000
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: 
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: 
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: 513
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: 
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: OLDPRODUCTS_41
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: {9A7AC84C-3DD1-4CE9-9544-B47F3BC1DA5E}
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: 6.00.0000
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: 
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: 
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: 513
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: 
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: OLDPRODUCTS_42
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: {F1BE2225-BDBD-4B90-AA10-A589E753AF96}
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: 6.00.0000
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: 
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: 
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: 513
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: 
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: OLDPRODUCTS_43
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: {B2974E48-F904-45C0-A5AC-452F2C64EF1D}
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: 6.00.0000
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: 
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: 
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: 513
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: 
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: OLDPRODUCTS_44
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: {210373B1-1EED-4F74-8E9C-D43B9C5391BA}
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: 6.00.0000
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: 
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: 
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: 513
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: 
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: OLDPRODUCTS_45
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: {53E7DC2C-718A-4F9F-B650-B29FC0F5F87E}
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: 6.00.0000
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: 
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: 
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: 513
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: 
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: OLDPRODUCTS_46
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: {6168414E-10A0-4B84-8016-0A4A5BA7BACE}
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: 6.00.0000
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: 
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: 
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: 513
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: 
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: OLDPRODUCTS_47
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: {5D08A267-A103-42C4-BF84-A86AB03E3D2B}
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: 6.00.0000
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: 
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: 
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: 513
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: 
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: OLDPRODUCTS_48
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: {78B54607-6504-4B74-9C39-F5E16146FE67}
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: 6.00.0000
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: 
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: 
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: 513
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: 
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: OLDPRODUCTS_49
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: {8AAB92DA-EC74-4E1E-BB90-0737B8CF35BD}
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: 6.00.0000
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: 
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: 
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: 513
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: 
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: OLDPRODUCTS_50
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: {CBE07EE5-201E-4AB9-B02C-7480FE91A883}
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: 6.00.0000
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: 
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: 
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: 513
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: 
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: OLDPRODUCTS_58
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: {7F71AA5B-AB81-41E9-9541-B910C83CDAA3}
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: 6.00.0000
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: 
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: 
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: 513
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: 
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: OLDPRODUCTS_59
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: {5BA7CD07-4D6C-4D16-B1A6-2B50DD5F17AD}
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: 
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: 8.52.10222
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: 
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: 257
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: 
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: OLDPRODUCTS
+2016-05-24T01:00:14.14-05:00 UpgradeUtils/DumpUpgradeTable: Exiting
+2016-05-24T01:00:15.15-05:00 UpgradeUtils/ES_SetProperties: Entered
+2016-05-24T01:00:15.15-05:00 UpgradeUtils/SetInstallType: Entered
+2016-05-24T01:00:15.15-05:00 GetProperty Success: UpgradeUtils/SetInstallType (Line 4012) got 'NotesClient,StandardClient,StandardNotesClient' for 'ISReleaseFlags' from MSI
+2016-05-24T01:00:15.15-05:00 GetProperty Success: UpgradeUtils/SetInstallType (Line 4026) got '' for 'NOMAD' from MSI
+2016-05-24T01:00:15.15-05:00 UpgradeUtils/SetInstallType: Standard client detected, incrementing InstallMode
+2016-05-24T01:00:15.15-05:00 SetProperty Success: UpgradeUtils/SetInstallType (Line 4047) set 'INSTALLMODE' to '1' in MSI
+2016-05-24T01:00:15.15-05:00 SetProperty Success: UpgradeUtils/SetInstallType (Line 4048) set 'INSTALLMODE' to '1' in registry
+2016-05-24T01:00:15.15-05:00 SetProperty Success: UpgradeUtils/SetInstallType (Line 4065) set 'INSTALLTYPE' to 'NotesClient' in MSI
+2016-05-24T01:00:15.15-05:00 SetProperty Success: UpgradeUtils/SetInstallType (Line 4066) set 'INSTALLTYPE' to 'NotesClient' in registry
+2016-05-24T01:00:15.15-05:00 GetProperty Success: UpgradeUtils/SetInstallType (Line 4071) got 'NotesClient' for 'INSTALLTYPE' from MSI
+2016-05-24T01:00:15.15-05:00 GetProperty Success: UpgradeUtils/SetInstallType (Line 4075) got 'NotesClient' for 'INSTALLTYPE' from registry
+2016-05-24T01:00:15.15-05:00 UpgradeUtils/SetInstallType: Exiting
+2016-05-24T01:00:15.15-05:00 GetProperty Success: UpgradeUtils/ES_SetProperties (Line 531) got 'ALL' for 'REMOVE' from MSI
+2016-05-24T01:00:15.15-05:00 SetProperty Success: UpgradeUtils/ES_SetProperties (Line 532) set 'REMOVE' to 'ALL' in registry
+2016-05-24T01:00:15.15-05:00 SetProperty Success: UpgradeUtils/ES_SetProperties (Line 535) set 'Uninstalling' to 'Yes' in registry
+2016-05-24T01:00:15.15-05:00 GetProperty Success: UpgradeUtils/ES_SetProperties (Line 544) got '3' for 'UILevel' from MSI
+2016-05-24T01:00:15.15-05:00 UpgradeUtils/IsInstallFromAdminImage: Entered
+2016-05-24T01:00:15.15-05:00 UpgradeUtils/IsInstallFromAdminImage: IsAdminPackage returned: 
+2016-05-24T01:00:15.15-05:00 UpgradeUtils/IsInstallFromAdminImage: This install is NOT from an Admin image
+2016-05-24T01:00:15.15-05:00 UpgradeUtils/IsInstallFromAdminImage: Exiting
+2016-05-24T01:00:15.15-05:00 GetProperty Success: UpgradeUtils/ES_SetProperties (Line 593) got 'C:\Program Files (x86)\IBM\Lotus\Notes\' for 'PROGDIR' from MSI
+2016-05-24T01:00:15.15-05:00 SetTargetPath Success: UpgradeUtils/ES_SetProperties (Line 594) set target path 'INSTALLDIR' to 'C:\Program Files (x86)\IBM\Lotus\Notes\'
+2016-05-24T01:00:15.15-05:00 SetProperty Success: UpgradeUtils/ES_SetProperties (Line 598) set 'PROGDIR' to 'C:\Program Files (x86)\IBM\Lotus\Notes\' in registry
+2016-05-24T01:00:15.15-05:00 SetProperty Success: UpgradeUtils/ES_SetProperties (Line 599) set 'PROGDIR' to 'C:\Program Files (x86)\IBM\Lotus\Notes\' in MSI
+2016-05-24T01:00:15.15-05:00 SetProperty Success: UpgradeUtils/ES_SetProperties (Line 601) set 'INSTALLDIR' to 'C:\Program Files (x86)\IBM\Lotus\Notes\' in MSI
+2016-05-24T01:00:15.15-05:00 GetProperty Success: UpgradeUtils/ES_SetProperties (Line 608) got 'C:\Documents and Settings\All Users\Application Data\Lotus\Notes\Data\Shared\' for 'DATADIR' from MSI
+2016-05-24T01:00:15.15-05:00 SetProperty Success: UpgradeUtils/ES_SetProperties (Line 609) set 'DATADIR' to 'C:\Documents and Settings\All Users\Application Data\Lotus\Notes\Data\Shared\' in registry
+2016-05-24T01:00:15.15-05:00 GetProperty Success: UpgradeUtils/ES_SetProperties (Line 613) got 'AllUsers' for 'ApplicationUsers' from MSI
+2016-05-24T01:00:15.15-05:00 SetProperty Success: UpgradeUtils/ES_SetProperties (Line 614) set 'ApplicationUsers' to 'AllUsers' in registry
+2016-05-24T01:00:15.15-05:00 GetProperty Success: UpgradeUtils/ES_SetProperties (Line 617) got '1' for 'ALLUSERS' from MSI
+2016-05-24T01:00:15.15-05:00 SetProperty Success: UpgradeUtils/ES_SetProperties (Line 618) set 'ALLUSERS' to '1' in MSI
+2016-05-24T01:00:15.15-05:00 SetProperty Success: UpgradeUtils/ES_SetProperties (Line 619) set 'ALLUSERS' to '1' in registry
+2016-05-24T01:00:15.15-05:00 GetProperty Success: UpgradeUtils/ES_SetProperties (Line 623) got 'LanmanWorkstation,RDPNP,webclient,PnSson' for 'NETWORKPROVORDER' from MSI
+2016-05-24T01:00:15.15-05:00 SetProperty Success: UpgradeUtils/ES_SetProperties (Line 624) set 'NETWORKPROVORDER' to 'LanmanWorkstation,RDPNP,webclient,PnSson' in registry
+2016-05-24T01:00:15.15-05:00 GetProperty Success: UpgradeUtils/ES_SetProperties (Line 628) got '' for 'NOTESPATH40' from MSI
+2016-05-24T01:00:15.15-05:00 SetProperty Success: UpgradeUtils/ES_SetProperties (Line 629) set 'NOTESPATH40' to '' in registry
+2016-05-24T01:00:15.15-05:00 GetProperty Success: UpgradeUtils/ES_SetProperties (Line 633) got '' for 'SOURCEDIR' from MSI
+2016-05-24T01:00:15.15-05:00 SetProperty Success: UpgradeUtils/ES_SetProperties (Line 634) set 'SourceDir' to '' in registry
+2016-05-24T01:00:15.15-05:00 GetProperty Success: UpgradeUtils/ES_SetProperties (Line 639) got '' for 'PATCH' from MSI
+2016-05-24T01:00:15.15-05:00 GetProperty Success: UpgradeUtils/ES_SetProperties (Line 652) got 'AllUsers' for 'ApplicationUsers' from registry
+2016-05-24T01:00:15.15-05:00 GetProperty Success: UpgradeUtils/ES_SetProperties (Line 655) got '0' for 'NOTESWORKSWITH' from MSI
+2016-05-24T01:00:15.15-05:00 SetProperty Success: UpgradeUtils/ES_SetProperties (Line 656) set 'NOTESWORKSWITH' to '0' in registry
+2016-05-24T01:00:15.15-05:00 GetProperty Success: UpgradeUtils/INTL_IsMuiIns (Line 5405) got 'NotesClient,StandardClient,StandardNotesClient' for 'ISReleaseFlags' from MSI
+2016-05-24T01:00:15.15-05:00 Function INTL_IsMuiIns: Release flags  FALSE   NotesClient,StandardClient,StandardNotesClient
+2016-05-24T01:00:15.15-05:00 SetProperty Success: UpgradeUtils/ES_SetProperties (Line 699) set 'ISMUI' to '0' in registry
+2016-05-24T01:00:15.15-05:00 GetProperty Success: UpgradeUtils/ES_SetProperties (Line 704) got 'ALL' for 'REMOVE' from MSI
+2016-05-24T01:00:15.15-05:00 GetProperty Success: UpgradeUtils/ES_SetProperties (Line 725) got 'C:\Program Files (x86)\IBM\Lotus\Notes\' for 'PROGDIR' from MSI
+2016-05-24T01:00:15.15-05:00 SetTargetPath Success: UpgradeUtils/ES_SetProperties (Line 731) set target path 'PROGDIR' to 'C:\Program Files (x86)\IBM\Lotus\Notes\'
+2016-05-24T01:00:15.15-05:00 SetTargetPath Success: UpgradeUtils/ES_SetProperties (Line 732) set target path 'INSTALLDIR' to 'C:\Program Files (x86)\IBM\Lotus\Notes\'
+2016-05-24T01:00:15.15-05:00 UpgradeUtils/ES_SetProperties: Performing multi-user install. 
+2016-05-24T01:00:15.15-05:00 SetProperty Success: UpgradeUtils/ES_SetProperties (Line 874) set 'MULTIUSER' to '#1' in MSI
+2016-05-24T01:00:15.15-05:00 UpgradeUtils/ES_SetProperties: Setting the MULTIUSER property to 1
+2016-05-24T01:00:15.15-05:00 GetProperty Success: UpgradeUtils/ES_SetProperties (Line 881) got 'C:\IBM' for 'MULTIUSERBASEDIR' from MSI
+2016-05-24T01:00:15.15-05:00 SetProperty Success: UpgradeUtils/ES_SetProperties (Line 889) set 'REGDATAPATHPROPERTY' to 'C:\IBM' in registry
+2016-05-24T01:00:15.15-05:00 UpgradeUtils/ES_SetProperties: REGDATAPATHPROPERTY set to C:\IBM
+2016-05-24T01:00:15.15-05:00 UpgradeUtils/ES_SetProperties: The multi-user data directory root is C:\IBM
+2016-05-24T01:00:15.15-05:00 GetProperty Success: UpgradeUtils/ES_SetProperties (Line 910) got 'C:\Documents and Settings\All Users\Application Data' for 'MULTIUSERCOMMONDIR' from MSI
+2016-05-24T01:00:15.15-05:00 SetProperty Success: UpgradeUtils/ES_SetProperties (Line 920) set 'REGCOMMONDATAPATHPROPERTY' to 'C:\Documents and Settings\All Users\Application Data' in registry
+2016-05-24T01:00:15.15-05:00 UpgradeUtils/ES_SetProperties: REGCOMMONDATAPATHPROPERTY set to C:\Documents and Settings\All Users\Application Data
+2016-05-24T01:00:15.15-05:00 UpgradeUtils/ES_SetProperties: The multi-user data common directory root is C:\Documents and Settings\All Users\Application Data
+2016-05-24T01:00:15.15-05:00 SetTargetPath Success: UpgradeUtils/ES_SetProperties (Line 936) set target path 'VDIR_INI' to 'C:\Documents and Settings\All Users\Application Data\Lotus\Notes\Data'
+2016-05-24T01:00:15.15-05:00 GetTargetPath Success: UpgradeUtils/ES_SetProperties (Line 938) got 'C:\Documents and Settings\All Users\Application Data\Lotus\Notes\Data\' for target path 'VDIR_INI'
+2016-05-24T01:00:15.15-05:00 SetProperty Success: UpgradeUtils/ES_SetProperties (Line 939) set 'VDIR_INI' to 'C:\Documents and Settings\All Users\Application Data\Lotus\Notes\Data\' in registry
+2016-05-24T01:00:15.15-05:00 SetTargetPath Success: UpgradeUtils/ES_SetProperties (Line 941) set target path 'VDIR_DATA' to 'C:\Documents and Settings\All Users\Application Data\Lotus\Notes\Data'
+2016-05-24T01:00:15.15-05:00 GetTargetPath Success: UpgradeUtils/ES_SetProperties (Line 943) got 'C:\Documents and Settings\All Users\Application Data\Lotus\Notes\Data\' for target path 'VDIR_DATA'
+2016-05-24T01:00:15.15-05:00 SetProperty Success: UpgradeUtils/ES_SetProperties (Line 951) set 'INIPARAM' to '' in MSI
+2016-05-24T01:00:15.15-05:00 GetProperty Success: UpgradeUtils/ES_SetProperties (Line 953) got '' for 'INIPARAM' from MSI
+2016-05-24T01:00:15.15-05:00 SetProperty Success: UpgradeUtils/ES_SetProperties (Line 957) set 'USERINSTALL' to '1' in MSI
+2016-05-24T01:00:15.15-05:00 SetTargetPath Success: UpgradeUtils/ES_SetProperties (Line 965) set target path 'DATADIR' to 'C:\Documents and Settings\All Users\Application Data\Lotus\Notes\Data\Shared'
+2016-05-24T01:00:15.15-05:00 UpgradeUtils/ES_SetProperties: DATADIR set to C:\Documents and Settings\All Users\Application Data\Lotus\Notes\Data\Shared
+2016-05-24T01:00:15.15-05:00 GetTargetPath Success: UpgradeUtils/ES_SetProperties (Line 968) got 'C:\Documents and Settings\All Users\Application Data\Lotus\Notes\Data\Shared\' for target path 'DATADIR'
+2016-05-24T01:00:15.15-05:00 SetProperty Success: UpgradeUtils/ES_SetProperties (Line 970) set 'DATADIR' to 'C:\Documents and Settings\All Users\Application Data\Lotus\Notes\Data\Shared\' in registry
+2016-05-24T01:00:15.15-05:00 GetProperty Success: UpgradeUtils/ES_SetProperties (Line 1019) got '080502' for 'NOTESVERSION' from MSI
+2016-05-24T01:00:15.15-05:00 SetProperty Success: UpgradeUtils/ES_SetProperties (Line 1020) set 'NOTESVERSION' to '080502' in registry
+2016-05-24T01:00:15.15-05:00 GetProperty Success: UpgradeUtils/ES_SetProperties (Line 1024) got 'LanmanWorkstation,RDPNP,webclient,PnSson' for 'NETWORKPROVORDER' from registry
+2016-05-24T01:00:15.15-05:00 SetProperty Success: UpgradeUtils/ES_SetProperties (Line 1025) set 'NETWORKPROVORDER' to 'LanmanWorkstation,RDPNP,webclient,PnSson' in registry
+2016-05-24T01:00:15.15-05:00 GetProperty Success: UpgradeUtils/ES_SetProperties (Line 1029) got '' for 'USEWEBSYNTAX' from MSI
+2016-05-24T01:00:15.15-05:00 SetProperty Success: UpgradeUtils/ES_SetProperties (Line 1030) set 'USEWEBSYNTAX' to '' in registry
+2016-05-24T01:00:15.15-05:00 GetProperty Success: UpgradeUtils/ES_SetProperties (Line 1034) got 'null' for 'TECHNOTESEARCHURL' from MSI
+2016-05-24T01:00:15.15-05:00 SetProperty Success: UpgradeUtils/ES_SetProperties (Line 1035) set 'TECHNOTESEARCHURL' to 'null' in registry
+2016-05-24T01:00:15.15-05:00 GetProperty Success: UpgradeUtils/ES_SetProperties (Line 1039) got 'C:\Documents and Settings\All Users\Application Data\Lotus\Notes\Data\' for 'VDIR_INI' from registry
+2016-05-24T01:00:15.15-05:00 SetProperty Success: UpgradeUtils/ES_SetProperties (Line 1042) set 'IsFoundInstallMode' to '1' in MSI
+2016-05-24T01:00:15.15-05:00 SetProperty Success: UpgradeUtils/ES_SetProperties (Line 1043) set 'IsFoundInstallMode' to '1' in registry
+2016-05-24T01:00:15.15-05:00 GetProperty Success: UpgradeUtils/ES_SetProperties (Line 1048) got '1' for 'USENOTESFOREMAIL' from MSI
+2016-05-24T01:00:15.15-05:00 SetProperty Success: UpgradeUtils/ES_SetProperties (Line 1049) set 'USENOTESFOREMAIL' to '1' in registry
+2016-05-24T01:00:15.15-05:00 GetProperty Success: UpgradeUtils/ES_SetProperties (Line 1053) got '1' for 'USENOTESFORCALENDAR' from MSI
+2016-05-24T01:00:15.15-05:00 SetProperty Success: UpgradeUtils/ES_SetProperties (Line 1054) set 'USENOTESFORCALENDAR' to '1' in registry
+2016-05-24T01:00:15.15-05:00 GetProperty Success: UpgradeUtils/ES_SetProperties (Line 1058) got '1' for 'USENOTESFORCONTACTS' from MSI
+2016-05-24T01:00:15.15-05:00 SetProperty Success: UpgradeUtils/ES_SetProperties (Line 1059) set 'USENOTESFORCONTACTS' to '1' in registry
+2016-05-24T01:00:15.15-05:00 UpgradeUtils/ES_SetProperties: Exiting
+2016-05-24T01:00:15.15-05:00 UpgradeUtils/INTL_AdjustComponentsState: Entered
+2016-05-24T01:00:15.15-05:00 GetProperty Success: UpgradeUtils/INTL_IsMuiIns (Line 5405) got 'NotesClient,StandardClient,StandardNotesClient' for 'ISReleaseFlags' from MSI
+2016-05-24T01:00:15.15-05:00 Function INTL_IsMuiIns: Release flags  FALSE   NotesClient,StandardClient,StandardNotesClient
+2016-05-24T01:00:16.16-05:00 UpgradeUtils/CleanLockPermissionsTable: Entering
+2016-05-24T01:00:16.16-05:00 UpgradeUtils/SetREDIR_DATADIR: Entering
+2016-05-24T01:00:16.16-05:00 GetProperty Success: UpgradeUtils/SetREDIR_DATADIR (Line 9275) got 'C:\Documents and Settings\All Users\Application Data\Lotus\Notes\Data\Shared\' for 'DATADIR' from registry
+2016-05-24T01:00:16.16-05:00 SetProperty Success: UpgradeUtils/SetREDIR_DATADIR (Line 9278) set 'REDIR_DATADIR' to 'C:\Documents and Settings\All Users\Application Data\Lotus\Notes\Data\Shared\' in MSI
+2016-05-24T01:00:16.16-05:00 : Setting REDIR_DATADIR to: C:\Documents and Settings\All Users\Application Data\Lotus\Notes\Data\Shared\
+2016-05-24T01:00:16.16-05:00 UpgradeUtils/SetREDIR_DATADIR: Not a network drive - Exiting
+2016-05-24T01:00:16.16-05:00 GetProperty Success: UpgradeUtils/SetREDIR_VDIR_SHARED (Line 9346) got 'C:\Documents and Settings\All Users\Application Data\Lotus\Notes\Data\Shared\' for 'DATADIR' from registry
+2016-05-24T01:00:16.16-05:00 UpgradeUtils/SetREDIR_VDIR_SHARED: Entering
+2016-05-24T01:00:16.16-05:00 UpgradeUtils/SetREDIR_VDIR_SHARED: Not a network drive - Exiting
+2016-05-24T01:00:16.16-05:00 UpgradeUtils/IsInstallFromAdminImage: Entered
+2016-05-24T01:00:16.16-05:00 UpgradeUtils/IsInstallFromAdminImage: IsAdminPackage returned: 
+2016-05-24T01:00:16.16-05:00 UpgradeUtils/IsInstallFromAdminImage: This install is NOT from an Admin image
+2016-05-24T01:00:16.16-05:00 UpgradeUtils/IsInstallFromAdminImage: Exiting
+2016-05-24T01:00:16.16-05:00 UpgradeUtils/CleanLockPermissionsTable: Exiting
+2016-05-24T01:00:16.16-05:00 GetProperty Success: UpgradeUtils/INTL_RemoveShortCutMUIDAT (Line 6096) got 'C:\Program Files (x86)\IBM\Lotus\Notes\' for 'INSTALLDIR' from MSI
+2016-05-24T01:00:16.16-05:00 GetProperty Success: UpgradeUtils/INTL_RemoveShortCutMUIDAT (Line 6101) got '' for 'MUI_ISO' from MSI
+2016-05-24T01:00:16.16-05:00 Paul Success deleteted: remove file mui folderC:\Program Files (x86)\IBM\Lotus\Notes\MUI
+2016-05-24T01:00:16.16-05:00 Paul Removed: MsiDoAction is successlpPathName
+2016-05-24T01:00:16.16-05:00 UpgradeUtils/IsUninstall: Entered
+2016-05-24T01:00:16.16-05:00 GetProperty Success: UpgradeUtils/IsUninstall (Line 3427) got 'ALL' for 'REMOVE' from MSI
+2016-05-24T01:00:16.16-05:00 UpgradeUtils/IsUninstall: This is an uninstall
+2016-05-24T01:00:16.16-05:00 UpgradeUtils/IsUninstall: Exiting
+2016-05-24T01:00:16.16-05:00 XPD: GenerateInfo/CheckCoreInstallDirWritable: DEBUG - Entering
+2016-05-24T01:00:16.16-05:00 XPD: CActionsCommon/GetProperty: DEBUG - Retrieved property: COREINSTALLDIR, Value: C:/Program Files (x86)/IBM/Lotus/Notes/framework/
+2016-05-24T01:00:16.16-05:00 XPD: GenerateInfo/CheckCoreInstallDirWritable: DEBUG - Able to write to core install dir: 
+2016-05-24T01:00:16.16-05:00 XPD: GenerateInfo/CheckCoreInstallDirWritable: DEBUG - Exiting
+2016-05-24T01:00:16.16-05:00 XPD: GenerateInfo/UnlockCoreInstallDir: DEBUG - Entering
+2016-05-24T01:00:16.16-05:00 XPD: CActionsCommon/GetProperty: DEBUG - Retrieved property: coreInstallDirWritable, Value: true
+2016-05-24T01:00:16.16-05:00 XPD: CActionsCommon/GetProperty: DEBUG - Retrieved property: COREINSTALLDIR, Value: C:/Program Files (x86)/IBM/Lotus/Notes/framework/
+2016-05-24T01:00:16.16-05:00 XPD: GenerateInfo/UnlockCoreInstallDir: DEBUG - Core install dir was originally writable, so no need to unlock it
+2016-05-24T01:00:16.16-05:00 XPD: GenerateInfo/UnlockCoreInstallDir: DEBUG - Exiting
+2016-05-24T01:00:16.16-05:00 XPD: GenerateInfo/GenUnInstallInfo: DEBUG - Entering
+2016-05-24T01:00:16.16-05:00 XPD: CActionsCommon/GetPropertyFromLauncherPropFile: DEBUG - Entering
+2016-05-24T01:00:16.16-05:00 XPD: CActionsCommon/GetProperty: DEBUG - Retrieved property: COREINSTALLDIR, Value: C:/Program Files (x86)/IBM/Lotus/Notes/framework/
+2016-05-24T01:00:16.16-05:00 XPD: CActionsCommon/GetPropertyFromLauncherPropFile: DEBUG - Exiting
+2016-05-24T01:00:16.16-05:00 XPD: GenerateInfo/GenUnInstallInfo: INFO - rcpInstallID - 1461325429594
+2016-05-24T01:00:16.16-05:00 XPD: CActionsCommon/getRCPData: DEBUG - Entering
+2016-05-24T01:00:16.16-05:00 XPD: CActionsCommon/GetPropertyFromLauncherPropFile: DEBUG - Entering
+2016-05-24T01:00:16.16-05:00 XPD: CActionsCommon/GetProperty: DEBUG - Retrieved property: COREINSTALLDIR, Value: C:/Program Files (x86)/IBM/Lotus/Notes/framework/
+2016-05-24T01:00:16.16-05:00 XPD: CActionsCommon/GetPropertyFromLauncherPropFile: DEBUG - Exiting
+2016-05-24T01:00:16.16-05:00 XPD: CActionsCommon/getRCPData: DEBUG - Exiting
+2016-05-24T01:00:16.16-05:00 XPD: GenerateInfo/GenUnInstallInfo: INFO - RCP_WORKSPACE_LOCATION - C:/IBM/Lotus/Notes/Data/workspace
+2016-05-24T01:00:16.16-05:00 XPD: GenerateInfo/GenUnInstallInfo: DEBUG - Exiting
+2016-05-24T01:00:16.16-05:00 XPD: Provisioning/UninstallProvisioning: DEBUG - Entering
+2016-05-24T01:00:16.16-05:00 XPD: CActionsCommon/GetProperty: DEBUG - Retrieved property: COREINSTALLDIR, Value: C:/Program Files (x86)/IBM/Lotus/Notes/framework/
+2016-05-24T01:00:16.16-05:00 XPD: CActionsCommon/GetProperty: DEBUG - Retrieved property: Privileged, Value: 1
+2016-05-24T01:00:16.16-05:00 XPD: CActionsCommon/GetProperty: DEBUG - Retrieved property: SUPPRESSPATCHERRORS, Value: false
+2016-05-24T01:00:16.16-05:00 XPD: CActionsCommon/GetProperty: DEBUG - Retrieved property: RCP_WORKSPACE_LOCATION, Value: C:/IBM/Lotus/Notes/Data/workspace
+2016-05-24T01:00:16.16-05:00 XPD: Provisioning/startProvisioning: DEBUG - Entering
+2016-05-24T01:00:16.16-05:00 XPD: CActionsCommon/GetProperty: DEBUG - Retrieved property: PROVDEBUG, Value: false
+2016-05-24T01:00:16.16-05:00 XPD: Provisioning/startProvisioning: INFO - Provisioning Command - "C:/Program Files (x86)/IBM/Lotus/Notes/framework/rcp/rcplauncher.exe" -rcpLauncherWait -provManifest -noSplash -product NULL -provisioningOperation uninstall -vmargs -DprovisioningOperation=uninstall -Drcp.system.admin=true
+2016-05-24T01:00:18.18-05:00 XPD: Provisioning/startProvisioning: DEBUG - Exiting
+2016-05-24T01:00:18.18-05:00 XPD: Provisioning/processUpdates: DEBUG - Entering
+2016-05-24T01:00:18.18-05:00 XPD: CActionsCommon/GetProperty: DEBUG - Retrieved property: RCP_WORKSPACE_LOCATION, Value: C:/IBM/Lotus/Notes/Data/workspace
+2016-05-24T01:00:18.18-05:00 XPD: Provisioning/getLogStatusUpdates: DEBUG - Entering
+2016-05-24T01:00:18.18-05:00 XPD: Provisioning/getLogStatusUpdates: DEBUG - Looking for C:\IBM\Lotus\Notes\Data\workspace\logs\.prov2install or C:\IBM\Lotus\Notes\Data\workspace\logs\provisioning.log
+2016-05-24T01:00:19.19-05:00 XPD: Provisioning/getLogStatusUpdates: DEBUG - Looking for C:\IBM\Lotus\Notes\Data\workspace\logs\.prov2install or C:\IBM\Lotus\Notes\Data\workspace\logs\provisioning.log
+2016-05-24T01:00:20.20-05:00 XPD: Provisioning/getLogStatusUpdates: DEBUG - Looking for C:\IBM\Lotus\Notes\Data\workspace\logs\.prov2install or C:\IBM\Lotus\Notes\Data\workspace\logs\provisioning.log
+2016-05-24T01:00:21.21-05:00 XPD: Provisioning/getLogStatusUpdates: DEBUG - Looking for C:\IBM\Lotus\Notes\Data\workspace\logs\.prov2install or C:\IBM\Lotus\Notes\Data\workspace\logs\provisioning.log
+2016-05-24T01:00:22.22-05:00 XPD: Provisioning/getLogStatusUpdates: DEBUG - Looking for C:\IBM\Lotus\Notes\Data\workspace\logs\.prov2install or C:\IBM\Lotus\Notes\Data\workspace\logs\provisioning.log
+2016-05-24T01:00:23.23-05:00 XPD: Provisioning/getLogStatusUpdates: DEBUG - Looking for C:\IBM\Lotus\Notes\Data\workspace\logs\.prov2install or C:\IBM\Lotus\Notes\Data\workspace\logs\provisioning.log
+2016-05-24T01:00:24.24-05:00 XPD: Provisioning/getLogStatusUpdates: DEBUG - Looking for C:\IBM\Lotus\Notes\Data\workspace\logs\.prov2install or C:\IBM\Lotus\Notes\Data\workspace\logs\provisioning.log
+2016-05-24T01:00:24.24-05:00 XPD: Provisioning/getLogStatusUpdates: DEBUG - Found C:\IBM\Lotus\Notes\Data\workspace\logs\.prov2install
+2016-05-24T01:00:31.31-05:00 XPD: Provisioning/getLogStatusUpdates: DEBUG - Exiting
+2016-05-24T01:00:31.31-05:00 XPD: Provisioning/getProvReturnCode: DEBUG - Entering
+2016-05-24T01:00:31.31-05:00 XPD: CActionsCommon/GetProperty: DEBUG - Retrieved property: COREINSTALLDIR, Value: C:/Program Files (x86)/IBM/Lotus/Notes/framework/
+2016-05-24T01:00:31.31-05:00 XPD: Provisioning/getProvReturnCode: INFO - RCP_PROVISIONING_RETURN_CODE - 0
+2016-05-24T01:00:31.31-05:00 XPD: Provisioning/getProvReturnCode: DEBUG - Exiting
+2016-05-24T01:00:31.31-05:00 XPD: CActionsCommon/GetProperty: DEBUG - Retrieved property: RCP_PROVISIONING_RETURN_CODE, Value: 0
+2016-05-24T01:00:31.31-05:00 XPD: Provisioning/processUpdates: DEBUG - Exiting
+2016-05-24T01:00:31.31-05:00 XPD: CActionsCommon/GetProperty: DEBUG - Retrieved property: RCP_PROVISIONING_STATUS, Value: Disable operation is complete
+2016-05-24T01:00:31.31-05:00 XPD: CActionsCommon/GetProperty: DEBUG - Retrieved property: RCP_PROVISIONING_RETURN_CODE, Value: 0
+2016-05-24T01:00:31.31-05:00 XPD: Provisioning/displayProvisioningError: DEBUG - Entering
+2016-05-24T01:00:31.31-05:00 XPD: CActionsCommon/GetProperty: DEBUG - Retrieved property: RCP_PROVISIONING_RETURN_CODE, Value: 0
+2016-05-24T01:00:31.31-05:00 XPD: CActionsCommon/GetProperty: DEBUG - Retrieved property: UILevel, Value: 3
+2016-05-24T01:00:31.31-05:00 XPD: Provisioning/displayProvisioningError: DEBUG - Exiting
+2016-05-24T01:00:31.31-05:00 XPD: Provisioning/UninstallProvisioning: DEBUG - Exiting
+2016-05-24T01:00:31.31-05:00 XPD: GenerateInfo/RemoveUserData: DEBUG - Entering
+2016-05-24T01:00:31.31-05:00 XPD: CActionsCommon/GetProperty: DEBUG - Retrieved property: REMOVEUSERDATA, Value: false
+2016-05-24T01:00:31.31-05:00 XPD: CActionsCommon/GetProperty: DEBUG - Retrieved property: RCP_PROVISIONING_RETURN_CODE, Value: 0
+2016-05-24T01:00:31.31-05:00 XPD: GenerateInfo/RemoveUserData: DEBUG - Exiting
+2016-05-24T01:00:31.31-05:00 XPD: GenerateInfo/CleanUPInstallFiles: DEBUG - Entering
+2016-05-24T01:00:31.31-05:00 XPD: CActionsCommon/GetProperty: DEBUG - Retrieved property: COREINSTALLDIR, Value: C:/Program Files (x86)/IBM/Lotus/Notes/framework/
+2016-05-24T01:00:31.31-05:00 XPD: CActionsCommon/GetProperty: DEBUG - Retrieved property: RCP_PROVISIONING_RETURN_CODE, Value: 0
+2016-05-24T01:00:49.49-05:00 XPD: GenerateInfo/CleanUPInstallFiles: WARNING - Could not delete directory - 0. 
+Path: C:\Program Files (x86)\IBM\Lotus\Notes\framework\ITLM
+2016-05-24T01:00:49.49-05:00 XPD: GenerateInfo/CleanUPInstallFiles: DEBUG - Exiting
+2016-05-24T01:02:59.59-05:00 UpgradeUtils/UpdateRegForMultiUser: Entered
+2016-05-24T01:02:59.59-05:00 GetProperty Success: UpgradeUtils/UpdateRegForMultiUser (Line 6739) got 'AllUsers' for 'ApplicationUsers' from registry
+2016-05-24T01:02:59.59-05:00 GetProperty Success: UpgradeUtils/UpdateRegForMultiUser (Line 6743) got 'C:\IBM' for 'REGDATAPATHPROPERTY' from registry
+2016-05-24T01:02:59.59-05:00 GetProperty Success: UpgradeUtils/UpdateRegForMultiUser (Line 6746) got 'C:\Documents and Settings\All Users\Application Data' for 'REGCOMMONDATAPATHPROPERTY' from registry
+2016-05-24T01:02:59.59-05:00 UpgradeUtils/UpdateRegForMultiUser: Successfully wrote MultiUser registry key to SOFTWARE\Lotus\Notes
+2016-05-24T01:02:59.59-05:00 UpgradeUtils/UpdateRegForMultiUser: Successfully set DataPath registry value to C:\IBM
+2016-05-24T01:02:59.59-05:00 UpgradeUtils/UpdateRegForMultiUser: Successfully set CommonDataPath registry value to C:\Documents and Settings\All Users\Application Data
+2016-05-24T01:02:59.59-05:00 UpgradeUtils/UpdateRegForMultiUser: Successfully wrote MultiUser registry key to SOFTWARE\Lotus\Notes\8.0
+2016-05-24T01:02:59.59-05:00 UpgradeUtils/UpdateRegForMultiUser: Successfully set DataPath registry value to C:\IBM
+2016-05-24T01:02:59.59-05:00 UpgradeUtils/UpdateRegForMultiUser: Successfully set CommonDataPath registry value to C:\Documents and Settings\All Users\Application Data
+2016-05-24T01:02:59.59-05:00 UpgradeUtils/UpdateRegForMultiUser: Exiting
+2016-05-24T01:03:00.0-05:00 XPD: GenerateInfo/RemoveHotfixRegistryValue: DEBUG - Entering
+2016-05-24T01:03:00.0-05:00 XPD: CActionsCommon/GetProperty: DEBUG - Retrieved property: UpgradeCode, Value: {5BA7CD07-4D6C-4D16-B1A6-2B50DD5F17AD}
+2016-05-24T01:03:00.0-05:00 XPD: GenerateInfo/removeRegistryValue: DEBUG - Entering
+2016-05-24T01:03:00.0-05:00 XPD: GenerateInfo/removeRegistryValue: DEBUG - Updating registry path: SOFTWARE\IBM\Lotus\Expeditor\{5BA7CD07-4D6C-4D16-B1A6-2B50DD5F17AD}
+2016-05-24T01:03:00.0-05:00 XPD: GenerateInfo/removeRegistryValue: DEBUG - Exiting
+2016-05-24T01:03:00.0-05:00 XPD: GenerateInfo/RemoveHotfixRegistryValue: DEBUG - Exiting
+2016-05-24T01:03:00.0-05:00 MSI ERROR: "UpgradeUtils/INTL_RemoveUpdateMUIDAT (Line 6006): Error - 'GetPropertyFromRegistry' for 'ISIBMREMOVE' failed with return code '2' - The system cannot find the file specified.
+."
+2016-05-24T01:03:00.0-05:00 SetProperty Success: UpgradeUtils/INTL_RemoveUpdateMUIDAT (Line 6009) set 'ISIBMREMOVE' to 'NO' in registry
+2016-05-24T01:03:00.0-05:00 GetProperty Success: UpgradeUtils/INTL_RemoveUpdateMUIDAT (Line 6011) got 'C:\Program Files (x86)\IBM\Lotus\Notes\' for 'PROGDIR' from registry
+2016-05-24T01:03:00.0-05:00 INTL_RemoveUpdateMUI mui path is : remove call muiC:\Program Files (x86)\IBM\Lotus\Notes\MUI
+2016-05-24T01:03:00.0-05:00 INTL_RemoveUpdateMUI mui.dat  file is : remove call muiC:\Program Files (x86)\IBM\Lotus\Notes\MUI\MUI.DAT
+2016-05-24T01:03:00.0-05:00 MSI ERROR: "UpgradeUtils/INTL_RemoveUpdateMUIDAT (Line 6023): Error - 'GetPropertyFromRegistry' for 'MUI_ISO' failed with return code '2' - The system cannot find the file specified.
+."
+2016-05-24T01:03:00.0-05:00 INTL_RemoveUpdateMUI DAT path is : remove call muiC:\Program Files (x86)\IBM\Lotus\Notes\MUI
+2016-05-24T01:03:00.0-05:00 INTL_RemoveUpdateMUI DAT dat file is : remove call muiC:\Program Files (x86)\IBM\Lotus\Notes\MUI\MUI.DAT
+2016-05-24T01:03:00.0-05:00 INTL_RemoveUpdateMUI folder is: remove call muiC:\Program Files (x86)\IBM\Lotus\Notes\MUI\
+2016-05-24T01:03:00.0-05:00 UpgradeUtils/GetInstallType: Entered
+2016-05-24T01:03:00.0-05:00 GetProperty Success: UpgradeUtils/GetInstallType (Line 3140) got 'NotesClient' for 'INSTALLTYPE' from registry
+2016-05-24T01:03:00.0-05:00 UpgradeUtils/GetInstallType: InstallType is NotesClient
+2016-05-24T01:03:00.0-05:00 UpgradeUtils/GetInstallType: Exiting
+2016-05-24T01:03:00.0-05:00 GetProperty Success: UpgradeUtils/INTL_RemoveUpdateMUIDAT (Line 6042) got 'AllUsers' for 'ApplicationUsers' from registry
+2016-05-24T01:03:00.0-05:00 INTL_RemoveUpdateMUIDAT : removed mui.datC:\Program Files (x86)\IBM\Lotus\Notes\MUI\MUI.DAT
+2016-05-24T01:03:00.0-05:00 INTL_RemoveUpdateMUIDAT : removed mui iso folderC:\Program Files (x86)\IBM\Lotus\Notes\MUI\
+2016-05-24T01:03:00.0-05:00 UpgradeUtils/DisableMUIPack: Entered
+2016-05-24T01:03:00.0-05:00 GetProperty Success: UpgradeUtils/DisableMUIPack (Line 8694) got 'No' for 'MUIPackEnabled' from registry
+2016-05-24T01:03:00.0-05:00 UpgradeUtils/Uninstall: Entered
+2016-05-24T01:03:00.0-05:00 MSI ERROR: "UpgradeUtils/Uninstall (Line 4618): Error - 'GetPropertyFromRegistry' for 'Installing' failed with return code '2' - The system cannot find the file specified.
+."
+2016-05-24T01:03:00.0-05:00 GetProperty Success: UpgradeUtils/Uninstall (Line 4619) got 'Yes' for 'Uninstalling' from registry
+2016-05-24T01:03:00.0-05:00 GetProperty Success: UpgradeUtils/Uninstall (Line 4624) got 'C:\Program Files (x86)\IBM\Lotus\Notes\' for 'PROGDIR' from registry
+2016-05-24T01:03:00.0-05:00 UpgradeUtils/Uninstall: Info; File removed: C:\Documents and Settings\All Users\Application Data\Lotus\Notes\Data\Shared\afrikaan.dic
+2016-05-24T01:03:00.0-05:00 UpgradeUtils/Uninstall: Info; File removed: C:\Documents and Settings\All Users\Application Data\Lotus\Notes\Data\Shared\arabic.dic
+2016-05-24T01:03:00.0-05:00 UpgradeUtils/Uninstall: Info; File removed: C:\Documents and Settings\All Users\Application Data\Lotus\Notes\Data\Shared\aus.dic
+2016-05-24T01:03:00.0-05:00 UpgradeUtils/Uninstall: Info; File removed: C:\Documents and Settings\All Users\Application Data\Lotus\Notes\Data\Shared\brasil.dic
+2016-05-24T01:03:00.0-05:00 UpgradeUtils/Uninstall: Info; File removed: C:\Documents and Settings\All Users\Application Data\Lotus\Notes\Data\Shared\catala.dic
+2016-05-24T01:03:00.0-05:00 UpgradeUtils/Uninstall: Info; File removed: C:\Documents and Settings\All Users\Application Data\Lotus\Notes\Data\Shared\clkchs.dic
+2016-05-24T01:03:00.0-05:00 UpgradeUtils/Uninstall: Info; File removed: C:\Documents and Settings\All Users\Application Data\Lotus\Notes\Data\Shared\clkcht.dic
+2016-05-24T01:03:00.0-05:00 UpgradeUtils/Uninstall: Info; File removed: C:\Documents and Settings\All Users\Application Data\Lotus\Notes\Data\Shared\czech.dic
+2016-05-24T01:03:00.0-05:00 UpgradeUtils/Uninstall: Info; File removed: C:\Documents and Settings\All Users\Application Data\Lotus\Notes\Data\Shared\dansk.dic
+2016-05-24T01:03:00.0-05:00 UpgradeUtils/Uninstall: Info; File removed: C:\Documents and Settings\All Users\Application Data\Lotus\Notes\Data\Shared\deutsch.dic
+2016-05-24T01:03:00.0-05:00 UpgradeUtils/Uninstall: Info; File removed: C:\Documents and Settings\All Users\Application Data\Lotus\Notes\Data\Shared\deutsch2.dic
+2016-05-24T01:03:00.0-05:00 UpgradeUtils/Uninstall: Info; File removed: C:\Documents and Settings\All Users\Application Data\Lotus\Notes\Data\Shared\dschweiz.dic
+2016-05-24T01:03:00.0-05:00 UpgradeUtils/Uninstall: Info; File removed: C:\Documents and Settings\All Users\Application Data\Lotus\Notes\Data\Shared\efljpn.dic
+2016-05-24T01:03:00.0-05:00 UpgradeUtils/Uninstall: Info; File removed: C:\Documents and Settings\All Users\Application Data\Lotus\Notes\Data\Shared\eflkor.dic
+2016-05-24T01:03:00.0-05:00 UpgradeUtils/Uninstall: Info; File removed: C:\Documents and Settings\All Users\Application Data\Lotus\Notes\Data\Shared\espana.dic
+2016-05-24T01:03:00.0-05:00 UpgradeUtils/Uninstall: Info; File removed: C:\Documents and Settings\All Users\Application Data\Lotus\Notes\Data\Shared\francais.dic
+2016-05-24T01:03:00.0-05:00 UpgradeUtils/Uninstall: Info; File removed: C:\Documents and Settings\All Users\Application Data\Lotus\Notes\Data\Shared\hebrew.dic
+2016-05-24T01:03:00.0-05:00 UpgradeUtils/Uninstall: Info; File removed: C:\Documents and Settings\All Users\Application Data\Lotus\Notes\Data\Shared\hellas.dic
+2016-05-24T01:03:00.0-05:00 UpgradeUtils/Uninstall: Info; File removed: C:\Documents and Settings\All Users\Application Data\Lotus\Notes\Data\Shared\islensk.dic
+2016-05-24T01:03:00.0-05:00 UpgradeUtils/Uninstall: Info; File removed: C:\Documents and Settings\All Users\Application Data\Lotus\Notes\Data\Shared\italiano.dic
+2016-05-24T01:03:00.0-05:00 UpgradeUtils/Uninstall: Info; File removed: C:\Documents and Settings\All Users\Application Data\Lotus\Notes\Data\Shared\magyar.dic
+2016-05-24T01:03:00.0-05:00 UpgradeUtils/Uninstall: Info; File removed: C:\Documents and Settings\All Users\Application Data\Lotus\Notes\Data\Shared\nederlnd.dic
+2016-05-24T01:03:00.0-05:00 UpgradeUtils/Uninstall: Info; File removed: C:\Documents and Settings\All Users\Application Data\Lotus\Notes\Data\Shared\nedplus.dic
+2016-05-24T01:03:00.0-05:00 UpgradeUtils/Uninstall: Info; File removed: C:\Documents and Settings\All Users\Application Data\Lotus\Notes\Data\Shared\norbok.dic
+2016-05-24T01:03:00.0-05:00 UpgradeUtils/Uninstall: Info; File removed: C:\Documents and Settings\All Users\Application Data\Lotus\Notes\Data\Shared\nornyn.dic
+2016-05-24T01:03:00.0-05:00 UpgradeUtils/Uninstall: Info; File removed: C:\Documents and Settings\All Users\Application Data\Lotus\Notes\Data\Shared\polska.dic
+2016-05-24T01:03:00.0-05:00 UpgradeUtils/Uninstall: Info; File removed: C:\Documents and Settings\All Users\Application Data\Lotus\Notes\Data\Shared\portugal.dic
+2016-05-24T01:03:00.0-05:00 UpgradeUtils/Uninstall: Info; File removed: C:\Documents and Settings\All Users\Application Data\Lotus\Notes\Data\Shared\russian.dic
+2016-05-24T01:03:00.0-05:00 UpgradeUtils/Uninstall: Info; File removed: C:\Documents and Settings\All Users\Application Data\Lotus\Notes\Data\Shared\spellt.gra
+2016-05-24T01:03:00.0-05:00 UpgradeUtils/Uninstall: Info; File removed: C:\Documents and Settings\All Users\Application Data\Lotus\Notes\Data\Shared\suomi.dic
+2016-05-24T01:03:00.0-05:00 UpgradeUtils/Uninstall: Info; File removed: C:\Documents and Settings\All Users\Application Data\Lotus\Notes\Data\Shared\svensk.dic
+2016-05-24T01:03:00.0-05:00 UpgradeUtils/Uninstall: Info; File removed: C:\Documents and Settings\All Users\Application Data\Lotus\Notes\Data\Shared\turkiye.dic
+2016-05-24T01:03:00.0-05:00 MSI ERROR: "UpgradeUtils/Uninstall (Line 4675): Error - 'RegDeleteKey' for 'SOFTWARE\Classes\.vcf' failed with return code '2' - The system cannot find the file specified.
+."
+2016-05-24T01:03:00.0-05:00 MSI ERROR: "UpgradeUtils/Uninstall (Line 4679): Error - 'RegDeleteKey' for 'SOFTWARE\Classes\Notes.vcffile' failed with return code '2' - The system cannot find the file specified.
+."
+2016-05-24T01:03:00.0-05:00 UpgradeUtils/RegCleanProviderOrder: Entered
+2016-05-24T01:03:00.0-05:00 UpgradeUtils/RegCleanProviderOrder: Read network provider order from registry: LanmanWorkstation,RDPNP,webclient,PnSson
+2016-05-24T01:03:00.0-05:00 UpgradeUtils/RegCleanProviderOrder: Network provider order after cleanup: LanmanWorkstation,RDPNP,webclient,PnSson
+2016-05-24T01:03:00.0-05:00 UpgradeUtils/RegCleanProviderOrder: Successfully wrote ProviderOrder registry key to SYSTEM\CurrentControlSet\Control\NetworkProvider\Order
+2016-05-24T01:03:00.0-05:00 UpgradeUtils/RegCleanProviderOrder: Exiting
+2016-05-24T01:03:00.0-05:00 UpgradeUtils/RegCleanProviderOrder: Entered
+2016-05-24T01:03:00.0-05:00 UpgradeUtils/RegCleanProviderOrder: Read network provider order from registry: LanmanWorkstation,RDPNP,webclient,PnSson
+2016-05-24T01:03:00.0-05:00 UpgradeUtils/RegCleanProviderOrder: Network provider order after cleanup: LanmanWorkstation,RDPNP,webclient,PnSson
+2016-05-24T01:03:00.0-05:00 UpgradeUtils/RegCleanProviderOrder: Successfully wrote ProviderOrder registry key to SYSTEM\CurrentControlSet\Control\NetworkProvider\HwOrder
+2016-05-24T01:03:00.0-05:00 UpgradeUtils/RegCleanProviderOrder: Exiting
+2016-05-24T01:03:00.0-05:00 UpgradeUtils/IsInstallFromAdminImage: Entered
+2016-05-24T01:03:00.0-05:00 UpgradeUtils/IsInstallFromAdminImage: IsAdminPackage returned: 
+2016-05-24T01:03:00.0-05:00 UpgradeUtils/IsInstallFromAdminImage: This install is NOT from an Admin image
+2016-05-24T01:03:00.0-05:00 UpgradeUtils/IsInstallFromAdminImage: Exiting
+2016-05-24T01:03:00.0-05:00 UpgradeUtils/Uninstall: CustomActionData Property returned: 
+2016-05-24T01:03:00.0-05:00 UpgradeUtils/Uninstall: This install is NOT from an Admin image - value read from customactiondata
+2016-05-24T01:03:00.0-05:00 UpgradeUtils/Uninstall: Deleting file: C:\Program Files (x86)\IBM\Lotus\Notes\ndgts.sym
+2016-05-24T01:03:00.0-05:00 UpgradeUtils/Uninstall: Info; File removed: C:\Program Files (x86)\IBM\Lotus\Notes\ndgts.sym
+2016-05-24T01:03:00.0-05:00 UpgradeUtils/Uninstall: Deleting file: C:\Program Files (x86)\IBM\Lotus\Notes\ndxli2.sym
+2016-05-24T01:03:00.0-05:00 UpgradeUtils/Uninstall: Info; File removed: C:\Program Files (x86)\IBM\Lotus\Notes\ndxli2.sym
+2016-05-24T01:03:00.0-05:00 UpgradeUtils/Uninstall: Deleting file: C:\Program Files (x86)\IBM\Lotus\Notes\ndyncfg.sym
+2016-05-24T01:03:00.0-05:00 UpgradeUtils/Uninstall: Info; File removed: C:\Program Files (x86)\IBM\Lotus\Notes\ndyncfg.sym
+2016-05-24T01:03:00.0-05:00 UpgradeUtils/Uninstall: Deleting file: C:\Program Files (x86)\IBM\Lotus\Notes\nhttpstack.sym
+2016-05-24T01:03:00.0-05:00 UpgradeUtils/Uninstall: Info; File removed: C:\Program Files (x86)\IBM\Lotus\Notes\nhttpstack.sym
+2016-05-24T01:03:00.0-05:00 UpgradeUtils/Uninstall: Deleting file: C:\Program Files (x86)\IBM\Lotus\Notes\nlnotes.sym
+2016-05-24T01:03:00.0-05:00 UpgradeUtils/Uninstall: Info; File removed: C:\Program Files (x86)\IBM\Lotus\Notes\nlnotes.sym
+2016-05-24T01:03:00.0-05:00 UpgradeUtils/Uninstall: Deleting file: C:\Program Files (x86)\IBM\Lotus\Notes\nlsccstr.sym
+2016-05-24T01:03:00.0-05:00 UpgradeUtils/Uninstall: Info; File removed: C:\Program Files (x86)\IBM\Lotus\Notes\nlsccstr.sym
+2016-05-24T01:03:00.0-05:00 UpgradeUtils/Uninstall: Deleting file: C:\Program Files (x86)\IBM\Lotus\Notes\nlsxbe.sym
+2016-05-24T01:03:00.0-05:00 UpgradeUtils/Uninstall: Info; File removed: C:\Program Files (x86)\IBM\Lotus\Notes\nlsxbe.sym
+2016-05-24T01:03:00.0-05:00 UpgradeUtils/Uninstall: Deleting file: C:\Program Files (x86)\IBM\Lotus\Notes\nnotes.sym
+2016-05-24T01:03:00.0-05:00 UpgradeUtils/Uninstall: Info; File removed: C:\Program Files (x86)\IBM\Lotus\Notes\nnotes.sym
+2016-05-24T01:03:00.0-05:00 UpgradeUtils/Uninstall: Deleting file: C:\Program Files (x86)\IBM\Lotus\Notes\nnoteswc.sym
+2016-05-24T01:03:00.0-05:00 UpgradeUtils/Uninstall: Info; File removed: C:\Program Files (x86)\IBM\Lotus\Notes\nnoteswc.sym
+2016-05-24T01:03:00.0-05:00 UpgradeUtils/Uninstall: Deleting file: C:\Program Files (x86)\IBM\Lotus\Notes\nnotesws.sym
+2016-05-24T01:03:00.0-05:00 UpgradeUtils/Uninstall: Info; File removed: C:\Program Files (x86)\IBM\Lotus\Notes\nnotesws.sym
+2016-05-24T01:03:00.0-05:00 UpgradeUtils/Uninstall: Deleting file: C:\Program Files (x86)\IBM\Lotus\Notes\npnotes.sym
+2016-05-24T01:03:00.0-05:00 UpgradeUtils/Uninstall: Info; File removed: C:\Program Files (x86)\IBM\Lotus\Notes\npnotes.sym
+2016-05-24T01:03:00.0-05:00 UpgradeUtils/Uninstall: Deleting file: C:\Program Files (x86)\IBM\Lotus\Notes\nsd.sym
+2016-05-24T01:03:00.0-05:00 UpgradeUtils/Uninstall: Info; File removed: C:\Program Files (x86)\IBM\Lotus\Notes\nsd.sym
+2016-05-24T01:03:00.0-05:00 UpgradeUtils/Uninstall: Deleting file: C:\Program Files (x86)\IBM\Lotus\Notes\nsenddiag.sym
+2016-05-24T01:03:00.0-05:00 UpgradeUtils/Uninstall: Info; File removed: C:\Program Files (x86)\IBM\Lotus\Notes\nsenddiag.sym
+2016-05-24T01:03:00.0-05:00 UpgradeUtils/Uninstall: Deleting file: C:\Program Files (x86)\IBM\Lotus\Notes\nwrdaemndll.sym
+2016-05-24T01:03:00.0-05:00 UpgradeUtils/Uninstall: Info; File removed: C:\Program Files (x86)\IBM\Lotus\Notes\nwrdaemndll.sym
+2016-05-24T01:03:00.0-05:00 UpgradeUtils/Uninstall: Deleting file: C:\Program Files (x86)\IBM\Lotus\Notes\nxmlproc.sym
+2016-05-24T01:03:00.0-05:00 UpgradeUtils/Uninstall: Info; File removed: C:\Program Files (x86)\IBM\Lotus\Notes\nxmlproc.sym
+2016-05-24T01:03:00.0-05:00 UpgradeUtils/Uninstall: Exiting
+2016-05-24T01:03:00.0-05:00 XPD: GenerateInfo/CreateAddonUninstallBatch: DEBUG - Entering
+2016-05-24T01:03:00.0-05:00 XPD: CActionsCommon/GetProperty: DEBUG - Retrieved property: ProductCode, Value: {07C69B3A-62B3-41BF-82EE-B3A87BD6EA0C}
+2016-05-24T01:03:00.0-05:00 XPD: CActionsCommon/GetProperty: DEBUG - Retrieved property: UpgradeCode, Value: {5BA7CD07-4D6C-4D16-B1A6-2B50DD5F17AD}
+2016-05-24T01:03:00.0-05:00 XPD: GenerateInfo/CreateAddonUninstallBatch: DEBUG - value count: 2
+2016-05-24T01:03:00.0-05:00 XPD: GenerateInfo/CreateAddonUninstallBatch: DEBUG - index: 1, name: xpdInstallLocation
+2016-05-24T01:03:00.0-05:00 XPD: GenerateInfo/CreateAddonUninstallBatch: DEBUG - index: 2, name: AddonProductCode_{44174EC2-B7EA-49E8-A743-93E808202510}
+2016-05-24T01:03:00.0-05:00 XPD: GenerateInfo/CreateAddonUninstallBatch: DEBUG - Exiting
+2016-05-24T01:03:00.0-05:00 XPD: GenerateInfo/RemoveProductRegistryKeys: DEBUG - Entering
+2016-05-24T01:03:00.0-05:00 XPD: CActionsCommon/GetProperty: DEBUG - Retrieved property: UpgradeCode, Value: {5BA7CD07-4D6C-4D16-B1A6-2B50DD5F17AD}
+2016-05-24T01:03:00.0-05:00 XPD: GenerateInfo/RemoveProductRegistryKeys: DEBUG - Deleting HKEY_LOCAL_MACHINE\SOFTWARE\IBM\Lotus\Expeditor\{5BA7CD07-4D6C-4D16-B1A6-2B50DD5F17AD}
+2016-05-24T01:03:00.0-05:00 XPD: GenerateInfo/RemoveProductRegistryKeys: DEBUG - Deleting HKEY_LOCAL_MACHINE\SOFTWARE\IBM\Lotus\Expeditor
+2016-05-24T01:03:00.0-05:00 XPD: GenerateInfo/RemoveProductRegistryKeys: DEBUG - Deleting HKEY_LOCAL_MACHINE\SOFTWARE\IBM\Lotus
+2016-05-24T01:03:00.0-05:00 XPD: GenerateInfo/RemoveProductRegistryKeys: DEBUG - Exiting
+2016-05-24T01:03:00.0-05:00 XPD: GenerateInfo/RunCollector: DEBUG - Entering
+2016-05-24T01:03:00.0-05:00 XPD: CActionsCommon/GetProperty: DEBUG - Retrieved property: COREINSTALLDIR, Value: C:/Program Files (x86)/IBM/Lotus/Notes/framework/
+2016-05-24T01:03:00.0-05:00 XPD: GenerateInfo/RunCollector: DEBUG - Exiting
+2016-05-24T01:03:10.10-05:00 XPD: GenerateInfo/RemoveCoreResourcesFile: DEBUG - Entering
+2016-05-24T01:03:10.10-05:00 XPD: CActionsCommon/GetProperty: DEBUG - Retrieved property: LANGCODE, Value: en
+2016-05-24T01:03:10.10-05:00 XPD: GenerateInfo/RemoveCoreResourcesFile: DEBUG - Exiting
